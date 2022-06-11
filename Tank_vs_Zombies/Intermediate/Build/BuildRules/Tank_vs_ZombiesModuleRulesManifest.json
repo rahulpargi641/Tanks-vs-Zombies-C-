@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal Engine\\Tanks vs Zombies C++\\Tank_vs_Zombies\\Source\\Tank_vs_Zombies\\Tank_vs_Zombies.Build.cs",
+		"C:\\Unreal Engine\\Tanks vs Zombies C++\\Tank_vs_Zombies\\Source\\Tank_vs_Zombies.Target.cs",
+		"C:\\Unreal Engine\\Tanks vs Zombies C++\\Tank_vs_Zombies\\Source\\Tank_vs_ZombiesEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

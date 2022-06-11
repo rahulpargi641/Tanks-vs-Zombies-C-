@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Tank_vs_Zombies.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{78B01689-7C5E-46E5-9791-44D3742306AC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Tank_vs_Zombies.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Tank_vs_ZombiesEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{3B65113B-43BE-472E-8DC3-E0ACC983361A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Tank_vs_Zombies">
+      <UniqueIdentifier>{2E308411-A3E3-4DAE-8829-A6432950508E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Tank_vs_Zombies\Tank_vs_Zombies.Build.cs">
+      <Filter>Source\Tank_vs_Zombies</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Tank_vs_Zombies\Tank_vs_Zombies.cpp">
+      <Filter>Source\Tank_vs_Zombies</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tank_vs_Zombies\Tank_vs_Zombies.h">
+      <Filter>Source\Tank_vs_Zombies</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Tank_vs_Zombies\Tank_vs_ZombiesGameModeBase.cpp">
+      <Filter>Source\Tank_vs_Zombies</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tank_vs_Zombies\Tank_vs_ZombiesGameModeBase.h">
+      <Filter>Source\Tank_vs_Zombies</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Tank_vs_Zombies",
+			"Path": "C:\\Unreal Engine\\Tanks vs Zombies C++\\Tank_vs_Zombies\\Source\\Tank_vs_Zombies.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Tank_vs_ZombiesEditor",
+			"Path": "C:\\Unreal Engine\\Tanks vs Zombies C++\\Tank_vs_Zombies\\Source\\Tank_vs_ZombiesEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
