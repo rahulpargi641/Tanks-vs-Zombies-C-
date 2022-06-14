@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Tank_vs_Zombies.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{78B01689-7C5E-46E5-9791-44D3742306AC}</UniqueIdentifier>
+      <UniqueIdentifier>{FEC1555D-95F9-4246-B9DB-617507CCF2D2}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Tank_vs_Zombies.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{3B65113B-43BE-472E-8DC3-E0ACC983361A}</UniqueIdentifier>
+      <UniqueIdentifier>{0E759703-EC19-4293-9F6B-B0AD2BB49BAE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,8 +24,20 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Tank_vs_Zombies">
-      <UniqueIdentifier>{2E308411-A3E3-4DAE-8829-A6432950508E}</UniqueIdentifier>
+      <UniqueIdentifier>{95787444-0532-4C6A-A73C-AA382D27CB75}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Tank_vs_Zombies\Tank.cpp">
+      <Filter>Source\Tank_vs_Zombies</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tank_vs_Zombies\Tank.h">
+      <Filter>Source\Tank_vs_Zombies</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Tank_vs_Zombies\TankModeBase.cpp">
+      <Filter>Source\Tank_vs_Zombies</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tank_vs_Zombies\TankModeBase.h">
+      <Filter>Source\Tank_vs_Zombies</Filter>
+    </ClInclude>
     <None Include="..\..\Source\Tank_vs_Zombies\Tank_vs_Zombies.Build.cs">
       <Filter>Source\Tank_vs_Zombies</Filter>
     </None>
@@ -39,6 +51,12 @@
       <Filter>Source\Tank_vs_Zombies</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Tank_vs_Zombies\Tank_vs_ZombiesGameModeBase.h">
+      <Filter>Source\Tank_vs_Zombies</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Tank_vs_Zombies\Turret.cpp">
+      <Filter>Source\Tank_vs_Zombies</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tank_vs_Zombies\Turret.h">
       <Filter>Source\Tank_vs_Zombies</Filter>
     </ClInclude>
   </ItemGroup>

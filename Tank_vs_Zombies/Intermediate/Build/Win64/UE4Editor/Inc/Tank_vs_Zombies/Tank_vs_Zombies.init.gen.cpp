@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeTank_vs_Zombies_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xA4727CEC,
-				0x9649107B,
+				0x6E4C4305,
+				0x74620A06,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

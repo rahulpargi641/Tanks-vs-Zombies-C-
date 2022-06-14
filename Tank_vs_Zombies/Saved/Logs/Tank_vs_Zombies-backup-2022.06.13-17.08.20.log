@@ -1,0 +1,1303 @@
+﻿Log file open, 06/13/22 20:19:19
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Tank_vs_Zombies
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.270919
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/rahul/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.06.13-14.49.19:621][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.06.13-14.49.19:621][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Engine.ini]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Engine.ini]
+[2022.06.13-14.49.19:622][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Engine.ini]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Engine.ini]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.06.13-14.49.19:622][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Engine.ini]
+[2022.06.13-14.49.19:622][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Engine.ini]
+[2022.06.13-14.49.19:626][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.13-14.49.19:626][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.13-14.49.19:626][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.13-14.49.19:626][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.13-14.49.19:626][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.13-14.49.19:626][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.13-14.49.19:626][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.13-14.49.19:627][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.13-14.49.19:627][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.13-14.49.19:627][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.13-14.49.19:627][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.13-14.49.19:627][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.13-14.49.19:627][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.13-14.49.19:627][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.13-14.49.19:627][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.13-14.49.19:627][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.13-14.49.19:627][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.13-14.49.19:627][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.13-14.49.19:627][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.13-14.49.19:627][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.13-14.49.19:627][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.13-14.49.19:627][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.13-14.49.19:627][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.13-14.49.19:627][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.13-14.49.19:627][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.13-14.49.19:627][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.13-14.49.19:627][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.13-14.49.19:627][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.13-14.49.19:627][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.13-14.49.19:627][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.13-14.49.19:628][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.13-14.49.19:629][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.13-14.49.19:629][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.06.13-14.49.19:630][  0]LogHAL: Display: Platform has ~ 8 GB [8451309568 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.13-14.49.19:630][  0]LogInit: Going up to parent DeviceProfile []
+[2022.06.13-14.49.19:630][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.13-14.49.19:630][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.06.13-14.49.19:631][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Engine.ini]
+[2022.06.13-14.49.19:631][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Editor.ini]
+[2022.06.13-14.49.19:632][  0]LogInit: Computer: LAPTOP-H4T4MDIS
+[2022.06.13-14.49.19:632][  0]LogInit: User: rahul
+[2022.06.13-14.49.19:632][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.06.13-14.49.19:632][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.13-14.49.19:632][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2022.06.13-14.49.19:632][  0]LogMemory: Platform Memory Stats for Windows
+[2022.06.13-14.49.19:632][  0]LogMemory: Process Physical Memory: 131.26 MB used, 131.26 MB peak
+[2022.06.13-14.49.19:632][  0]LogMemory: Process Virtual Memory: 108.80 MB used, 108.80 MB peak
+[2022.06.13-14.49.19:632][  0]LogMemory: Physical Memory: 7014.73 MB used,  1045.07 MB free, 8059.80 MB total
+[2022.06.13-14.49.19:632][  0]LogMemory: Virtual Memory: 134204200.00 MB used,  13529.64 MB free, 134217728.00 MB total
+[2022.06.13-14.49.19:637][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.13-14.49.19:700][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.06.13-14.49.19:701][  0]LogInit: Using OS detected language (en-US).
+[2022.06.13-14.49.19:701][  0]LogInit: Using OS detected locale (en-IN).
+[2022.06.13-14.49.19:715][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.06.13-14.49.20:211][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.13-14.49.20:222][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.13-14.49.20:299][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.13-14.49.20:299][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.13-14.49.24:129][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.13-14.49.24:129][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.06.13-14.49.24:129][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.06.13-14.49.24:129][  0]LogD3D11RHI: D3D11 adapters:
+[2022.06.13-14.49.24:382][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2022.06.13-14.49.24:382][  0]LogD3D11RHI:       3962/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.06.13-14.49.24:416][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2022.06.13-14.49.24:416][  0]LogD3D11RHI:       128/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.06.13-14.49.24:436][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.06.13-14.49.24:436][  0]LogD3D11RHI:       0/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.06.13-14.49.24:436][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.06.13-14.49.24:440][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.06.13-14.49.24:440][  0]LogD3D11RHI:     GPU DeviceId: 0x1f99 (for the marketing name, search the web for "GPU Device Id")
+[2022.06.13-14.49.24:440][  0]LogWindows: EnumDisplayDevices:
+[2022.06.13-14.49.24:457][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2022.06.13-14.49.24:457][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.06.13-14.49.24:457][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.06.13-14.49.24:458][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2022.06.13-14.49.24:458][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.06.13-14.49.24:458][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2022.06.13-14.49.24:458][  0]LogD3D11RHI:   Driver Version: 462.30 (internal:27.21.14.6230, unified:462.30)
+[2022.06.13-14.49.24:458][  0]LogD3D11RHI:      Driver Date: 4-5-2021
+[2022.06.13-14.49.24:458][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2022.06.13-14.49.24:522][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.06.13-14.49.24:523][  0]LogD3D11RHI: Async texture creation enabled
+[2022.06.13-14.49.24:523][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.06.13-14.49.24:606][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.06.13-14.49.24:613][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.06.13-14.49.24:881][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.06.13-14.49.24:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.13-14.49.24:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.13-14.49.24:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.13-14.49.24:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.13-14.49.24:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.13-14.49.24:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.13-14.49.24:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.13-14.49.24:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.13-14.49.24:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.13-14.49.24:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.13-14.49.24:924][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.13-14.49.24:924][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.13-14.49.24:934][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.13-14.49.24:942][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.06.13-14.49.24:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.13-14.49.24:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.13-14.49.24:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.06.13-14.49.24:979][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.06.13-14.49.24:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.06.13-14.49.25:011][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.06.13-14.49.25:011][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.06.13-14.49.25:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.06.13-14.49.25:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.06.13-14.49.25:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.06.13-14.49.25:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.06.13-14.49.25:085][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.13-14.49.25:085][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.13-14.49.25:095][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.06.13-14.49.25:103][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.13-14.49.25:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.13-14.49.25:120][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.13-14.49.25:120][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.06.13-14.49.25:129][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.13-14.49.25:494][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.13-14.49.25:495][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Intermediate/Shaders/WorkingDirectory/19416/).
+[2022.06.13-14.49.25:495][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/rahul/AppData/Local/Temp/UnrealShaderWorkingDir/17DC6AE342C73C19BEBD48BA17692656/'.
+[2022.06.13-14.49.25:495][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.06.13-14.49.25:495][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.06.13-14.49.29:277][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.06.13-14.49.29:446][  0]LogDerivedDataCache: Loaded boot cache 0.17s 77MB C:/Users/rahul/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.06.13-14.49.29:446][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/rahul/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.06.13-14.49.29:446][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.13-14.49.29:446][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.06.13-14.49.29:446][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.13-14.49.29:446][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.06.13-14.49.29:485][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.06.13-14.49.29:485][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.13-14.49.29:485][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.06.13-14.49.29:505][  0]LogDerivedDataCache: Speed tests for C:/Users/rahul/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.06.13-14.49.29:505][  0]LogDerivedDataCache: Display: Performance to C:/Users/rahul/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.25ms. RandomReadSpeed=86.34MBs, RandomWriteSpeed=196.92MBs. Assigned SpeedClass 'Local'
+[2022.06.13-14.49.29:506][  0]LogDerivedDataCache: Using Local data cache path C:/Users/rahul/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.13-14.49.29:506][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.13-14.49.29:506][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.06.13-14.49.29:551][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.13-14.49.29:552][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.13-14.49.29:682][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
+[2022.06.13-14.49.30:076][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.13-14.49.30:076][  0]LogInit: Active device profile: [0000028A9C0BA300][0000028AFD7AED00 49] Windows
+[2022.06.13-14.49.30:076][  0]LogInit: Profiles: [0000028A9C0BA300][0000028AFD7AED00 49] Windows, [0000028A9C05EF00][0000028AFD7B6E80 49] WindowsNoEditor, [0000028A9C0B9100][0000028AFD7BB000 49] WindowsServer, [0000028A9C05D600][0000028AFD7BF180 49] WindowsClient, [0000028A9C0BA500][0000028AFD7C3300 49] IOS, [0000028A9C05C800][0000028AFD7C7480 49] iPadAir, [0000028A9C0BB200][0000028AFD7B35C0 49] iPadAir2, [0000028A9C006300][0000028AFD7CF800 49] IPadPro, [0000028A9C006400][0000028AFD7CB840 49] iPadAir3, [0000028A9C05DA00][0000028AFD7D3980 49] iPadAir4, [0000028A9C007B00][0000028A9B34DB00 49] iPadMini2, [0000028A9C05C100][0000028A9B351C80 49] iPadMini3, [0000028A9C005700][0000028A9B354140 49] iPadMini4, [0000028A9C05E600][0000028A9B3582C0 49] iPadMini5, [0000028A9C021B00][0000028A9B360580 49] iPhone6, [0000028A9C021C00][0000028A9B35C5C0 49] iPodTouch6, [0000028A9C0B9200][0000028A9B368880 49] iPhone7, [0000028A9C0B9300][0000028A9B3648C0 49] iPodTouch7, [0000028A9C022D00][0000028A9B36CA40 49] iPhone5S, [0000028A9C0BAA00][0000028A9B370BC0 49] iPhone6Plus, [0000028A9C020900][0000028A9B374D40 49] iPhone6S, [0000028A9C0BA000][0000028A9B378EC0 49] iPhone6SPlus, [0000028A9C022F00][0000028A9B37D040 49] iPhone7Plus, [0000028A9C0BBB00][0000028A9B3811C0 49] iPhoneSE, [0000028A9C021000][0000028A9B385340 49] iPhone8, [0000028A9C0B8D00][0000028A9B3894C0 49] iPhone8Plus, [0000028A9C023F00][0000028A9B38D640 49] iPhoneX, [0000028A9C0B8300][0000028A9B349780 49] iPhoneXS, [0000028A9C023800][0000028A9B3918C0 49] iPhoneXSMax, [0000028A9C0B8E00][0000028A9B395A00 49] iPhoneXR, [0000028A9C020500][0000028A9B39DB80 49] iPhone11, [0000028A9C05FC00][0000028A9B3A1D00 49] iPhone11Pro, [0000028A9C0B8500][0000028A9B3A41C0 49] iPhone11ProMax, [0000028A9C020400][0000028A9B3A8340 49] iPhoneSE2, [0000028A9C05CC00][0000028A9B3AC4C0 49] iPhone12Mini, [0000028A9C020A00][0000028A9B3B0640 49] iPhone12, [0000028A9C05F600][0000028A9B3B47C0 49] iPhone12Pro, [0000028A9C023600][0000028A9B3B8940 49] iPhone12ProMax, [0000028A9C05D500][0000028A9B3BCAC0 49] iPadPro105, [0000028A9C023D00][0000028A9B3C0C40 49] iPadPro129, [0000028A9C05D400][0000028A9B3C4DC0 49] iPadPro97, [0000028A9C020E00][0000028A9B3C8F40 49] iPadPro2_129, [0000028A9C0B9B00][0000028A9B3CD0C0 49] iPad5, [0000028A9C023100][0000028A9B3D1240 49] iPad6, [0000028A9C0BAF00][0000028A9B3D53C0 49] iPad7, [0000028A9C023700][0000028A9B3D9540 49] iPad8, [0000028A9C0BA600][0000028A9B3DD6C0 49] iPadPro11, [0000028A9C023300][0000028A9B399800 49] iPadPro2_11, [0000028A9C0BB100][0000028A9B3E1940 49] iPadPro3_129, [0000028A9C022900][0000028A9B3E5A80 49] iPadPro4_129, [0000028A9C0BBA00][0000028A9B3EDC00 49] AppleTV, [0000028A9C020800][0000028A9B3F00C0 49] AppleTV4K, [0000028A9C0B9600][0000028A9B3F4240 49] TVOS, [0000028A9C022600][0000028A9B3F83C0 49] Mac, [0000028A9C0B9F00][0000028A9B3FC540 49] MacClient, [0000028A9C022000][0000028A9C4106C0 49] MacNoEditor, [0000028A9C0B8900][0000028A9C414840 49] MacServer, [0000028A9C023C00][0000028A9C4189C0 49] Linux, [0000028A9C0BAC00][0000028A9C41CB40 49] LinuxAArch64, [0000028A9C023900][0000028A9C420CC0 49] LinuxNoEditor, [0000028A9C0BA900][0000028A9C424E40 49] LinuxAArch64NoEditor, [0000028A9C023400][0000028A9C428FC0 49] LinuxClient, [0000028A9C0BB700][0000028A9C42D140 49] LinuxAArch64Client, [0000028A9C023A00][0000028A9C4312C0 49] LinuxServer, [0000028A9C0BA100][0000028A9C435440 49] LinuxAArch64Server, [0000028A9C020C00][0000028A9C4395C0 49] Android, [0000028A9C0BB600][0000028A9C43D740 49] Android_Low, [0000028A9C022400][0000028A9B3E9880 49] Android_Mid, [0000028A9C0BB900][0000028A9C4419C0 49] Android_High, [0000028A9C021600][0000028A9C445B00 49] Android_Default, [0000028A9C0BB800][0000028A9C449C40 49] Android_Adreno4xx, [0000028A9C022500][0000028A9C450100 49] Android_Adreno5xx_Low, [0000028A9C0B9900][0000028A9C454280 49] Android_Adreno5xx, [0000028A9C022C00][0000028A9C458400 49] Android_Adreno6xx, [0000028A9C0B8800][0000028A9C45C580 49] Android_Adreno6xx_Vulkan, [0000028A9C022B00][0000028A9C460700 49] Android_Mali_T6xx, [0000028A9C0B9800][0000028A9C464880 49] Android_Mali_T7xx, [0000028A9C022A00][0000028A9C468A00 49] Android_Mali_T8xx, [0000028A9C0B9700][0000028A9C46CB80 49] Android_Mali_G71, [0000028A9C021100][0000028A9C470D00 49] Android_Mali_G72, [0000028A9C0BB400][0000028A9C474E80 49] Android_Mali_G72_Vulkan, [0000028A9C006C00][0000028A9C479000 49] Android_Mali_G76, [0000028A9C05CB00][0000028A9C47D180 49] Android_Mali_G76_Vulkan, [0000028A9C004500][0000028A9C481300 49] Android_Mali_G77, [0000028A9C05CE00][0000028A9C485480 49] Android_Mali_G77_Vulkan, [0000028A9C006900][0000028A9C489600 49] Android_Vulkan_SM5, [0000028A9C05F800][0000028A9C48D780 49] Android_PowerVR_G6xxx, [0000028A9C004600][0000028A9C44D8C0 49] Android_PowerVR_GT7xxx, [0000028A9C05E900][0000028A9C491A00 49] Android_PowerVR_GE8xxx, [0000028A9C004400][0000028A9C495B40 49] Android_PowerVR_GM9xxx, [0000028A9C05F200][0000028A9C499C80 49] Android_PowerVR_GM9xxx_Vulkan, [0000028A9C005300][0000028A9C4A0140 49] Android_TegraK1, [0000028A9C05C300][0000028A9C4A42C0 49] Android_Unknown_Vulkan, [0000028A9C004900][0000028A9C4A8440 49] Lumin, [0000028A9C05FA00][0000028A9C4AC5C0 49] Lumin_Desktop, [0000028A9C005A00][0000028A9C4B0740 49] HoloLens, 
+[2022.06.13-14.49.30:394][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.13-14.49.30:394][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.13-14.49.30:394][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.13-14.49.30:394][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.13-14.49.30:395][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.13-14.49.30:466][  0]LogNetVersion: Tank_vs_Zombies 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1315446585)
+[2022.06.13-14.49.32:096][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.06.13-14.49.32:146][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.048860 seconds
+[2022.06.13-14.49.32:152][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.06.13-14.49.32:152][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.06.13-14.49.32:152][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.13-14.49.33:242][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.13-14.49.33:249][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.13-14.49.33:501][  0]SourceControl: Source control is disabled
+[2022.06.13-14.49.33:501][  0]SourceControl: Source control is disabled
+[2022.06.13-14.49.33:521][  0]SourceControl: Source control is disabled
+[2022.06.13-14.49.33:526][  0]SourceControl: Source control is disabled
+[2022.06.13-14.49.33:538][  0]SourceControl: Source control is disabled
+[2022.06.13-14.49.33:544][  0]LogUProjectInfo: Found projects:
+[2022.06.13-14.49.34:185][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.13-14.49.34:193][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.13-14.49.34:193][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.13-14.49.34:303][  0]LogCollectionManager: Loaded 0 collections in 0.001526 seconds
+[2022.06.13-14.49.34:374][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Collections/' took 0.00s
+[2022.06.13-14.49.34:374][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Developers/rahul/Collections/' took 0.00s
+[2022.06.13-14.49.34:374][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Collections/' took 0.00s
+[2022.06.13-14.49.34:374][  0]LogOcInput: OculusInput pre-init called
+[2022.06.13-14.49.34:390][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.06.13-14.49.34:390][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.06.13-14.49.34:522][  0]LogEngine: Initializing Engine...
+[2022.06.13-14.49.34:524][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.13-14.49.34:524][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.06.13-14.49.34:529][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.06.13-14.49.34:855][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.13-14.49.34:899][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.13-14.49.34:909][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.13-14.49.34:915][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.13-14.49.34:915][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.13-14.49.34:916][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.13-14.49.34:916][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.13-14.49.34:916][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.13-14.49.34:916][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.13-14.49.34:916][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.13-14.49.34:916][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.13-14.49.34:916][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.13-14.49.34:916][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.13-14.49.34:919][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.13-14.49.34:919][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.13-14.49.34:937][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.13-14.49.34:937][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.06.13-14.49.35:245][  0]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.06.13-14.49.35:247][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.13-14.49.35:300][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.13-14.49.35:300][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.13-14.49.35:301][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.13-14.49.35:302][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.13-14.49.35:302][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.13-14.49.35:304][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.13-14.49.35:304][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.13-14.49.35:304][  0]LogInit: FAudioDevice initialized.
+[2022.06.13-14.49.35:306][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.13-14.49.35:308][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.13-14.49.35:414][  0]LogDerivedDataCache: Saved boot cache 0.11s 77MB C:/Users/rahul/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.06.13-14.49.35:418][  0]LogInit: Texture streaming: Enabled
+[2022.06.13-14.49.35:438][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.06.13-14.49.35:449][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.13-14.49.35:449][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={5A239611-4456-F7D4-33C6-CEBEB70EF852}
+[2022.06.13-14.49.35:450][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.06.13-14.49.35:458][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.06.13-14.49.35:500][  0]LogInit: Transaction tracking system initialized
+[2022.06.13-14.49.35:543][  0]BlueprintLog: New page: Editor Load
+[2022.06.13-14.49.35:748][  0]LocalizationService: Localization service is disabled
+[2022.06.13-14.49.35:797][  0]TimingProfiler: Initialize
+[2022.06.13-14.49.35:798][  0]TimingProfiler: OnSessionChanged
+[2022.06.13-14.49.35:798][  0]LoadingProfiler: Initialize
+[2022.06.13-14.49.35:798][  0]LoadingProfiler: OnSessionChanged
+[2022.06.13-14.49.35:799][  0]NetworkingProfiler: Initialize
+[2022.06.13-14.49.35:799][  0]NetworkingProfiler: OnSessionChanged
+[2022.06.13-14.49.35:799][  0]MemoryProfiler: Initialize
+[2022.06.13-14.49.35:799][  0]MemoryProfiler: OnSessionChanged
+[2022.06.13-14.49.36:272][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/' took 0.00s
+[2022.06.13-14.49.36:272][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.06.13-14.49.36:272][  0]LogCook: Display: Mobile HDR setting 1
+[2022.06.13-14.49.36:952][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.13-14.49.36:963][  0]SourceControl: Source control is disabled
+[2022.06.13-14.49.36:963][  0]LogUnrealEdMisc: Loading editor; pre map load, took 18.907
+[2022.06.13-14.49.36:964][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.13-14.49.36:986][  0]LightingResults: New page: Lighting Build
+[2022.06.13-14.49.36:992][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.13-14.49.36:993][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.13-14.49.36:996][  0]MapCheck: New page: Map Check
+[2022.06.13-14.49.36:996][  0]LightingResults: New page: Lighting Build
+[2022.06.13-14.49.37:012][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.06.13-14.49.37:159][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2022.06.13-14.49.37:173][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.06.13-14.49.37:173][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2022.06.13-14.49.37:203][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.13-14.49.37:212][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.06.13-14.49.37:213][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.13-14.49.37:214][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.329ms to complete.
+[2022.06.13-14.49.37:214][  0]LogFileHelpers: Loading map 'Template_Default' took 0.250
+[2022.06.13-14.49.37:228][  0]LogUnrealEdMisc: Total Editor Startup Time, took 19.172
+[2022.06.13-14.49.37:421][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.13-14.49.37:443][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.13-14.49.37:448][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.13-14.49.37:453][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.13-14.49.37:487][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0085 seconds. Added 3605 classes and 861 folders.
+[2022.06.13-14.49.37:496][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.06.13-14.49.37:510][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.13-14.49.37:510][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.13-14.49.37:510][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.13-14.49.37:510][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2022.06.13-14.49.37:528][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.13-14.49.37:528][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.13-14.49.37:528][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.13-14.49.37:528][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2022.06.13-14.49.37:533][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.06.13-14.49.37:533][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.13-14.49.37:533][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.06.13-14.49.37:533][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.06.13-14.49.37:539][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.13-14.49.37:539][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.13-14.49.37:539][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.13-14.49.37:539][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.06.13-14.49.37:544][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.13-14.49.37:544][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.13-14.49.37:544][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.13-14.49.37:544][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.06.13-14.49.37:549][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.13-14.49.37:549][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.13-14.49.37:549][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.13-14.49.37:549][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.06.13-14.49.37:553][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.13-14.49.37:553][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.13-14.49.37:553][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.13-14.49.37:553][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.06.13-14.49.37:559][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.13-14.49.37:559][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.13-14.49.37:559][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.13-14.49.37:559][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.06.13-14.49.37:598][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.13-14.49.37:598][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.13-14.49.37:598][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.13-14.49.37:598][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.06.13-14.49.37:607][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.13-14.49.37:607][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.13-14.49.37:607][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.13-14.49.37:607][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.06.13-14.49.37:612][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.13-14.49.37:612][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.13-14.49.37:612][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.13-14.49.37:612][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.06.13-14.49.37:641][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.13-14.49.37:641][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.13-14.49.37:641][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.13-14.49.37:641][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.06.13-14.49.37:646][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.13-14.49.37:646][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.13-14.49.37:646][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.13-14.49.37:646][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.06.13-14.49.37:650][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.13-14.49.37:650][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.13-14.49.37:650][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.13-14.49.37:651][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.06.13-14.49.37:655][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.13-14.49.37:655][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.13-14.49.37:655][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.13-14.49.37:655][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2022.06.13-14.49.37:725][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.13-14.49.37:725][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.13-14.49.37:725][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.13-14.49.37:725][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2022.06.13-14.49.37:742][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.13-14.49.37:742][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.13-14.49.37:742][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.13-14.49.37:742][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2022.06.13-14.49.37:758][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.13-14.49.37:758][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.13-14.49.37:758][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.13-14.49.37:758][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2022.06.13-14.49.37:767][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.13-14.49.37:767][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.13-14.49.37:767][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.13-14.49.37:767][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2022.06.13-14.49.37:779][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.13-14.49.37:779][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.13-14.49.37:779][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.13-14.49.37:779][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2022.06.13-14.49.37:784][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.13-14.49.37:785][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.13-14.49.37:785][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.13-14.49.37:785][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2022.06.13-14.49.37:807][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.13-14.49.37:807][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.13-14.49.37:807][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.13-14.49.37:807][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2022.06.13-14.49.37:812][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.06.13-14.49.37:812][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.13-14.49.37:812][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.06.13-14.49.37:812][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2022.06.13-14.49.37:817][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.13-14.49.37:817][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.13-14.49.37:817][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.13-14.49.37:817][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2022.06.13-14.49.37:821][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.13-14.49.37:821][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.13-14.49.37:821][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.13-14.49.37:821][  0]LogPakFile: OnPakFileMounted2Time == 0.000104
+[2022.06.13-14.49.37:826][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.13-14.49.37:826][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.13-14.49.37:826][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.13-14.49.37:826][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2022.06.13-14.49.38:049][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.06.13-14.49.38:058][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.06.13-14.49.38:288][  0]LogSlate: Took 0.001017 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.13-14.49.38:293][  0]LogSlate: Took 0.000510 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.13-14.49.38:322][  0]LogSlate: Took 0.017821 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.13-14.49.38:488][  0]LogRenderer: Reallocating scene render targets to support 896x504 Format 10 NumSamples 1 (Frame:1).
+[2022.06.13-14.49.38:586][  0]LogSlate: Took 0.004823 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.13-14.49.38:942][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.06.13-14.49.38:942][  0]LogLoad: (Engine Initialization) Total time: 20.89 seconds
+[2022.06.13-14.49.38:942][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.13-14.49.38:943][  0]LogInit: First time updating LLM stats...
+[2022.06.13-14.49.39:004][  0]LogAssetRegistry: Asset discovery search completed in 9.3241 seconds
+[2022.06.13-14.49.39:009][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000193 seconds (updated 0 objects)
+[2022.06.13-14.49.39:048][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.13-14.49.39:978][ 54]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.13-14.49.41:974][151]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Sprites/Turret.Turret
+[2022.06.13-14.49.42:093][151]LogSlate: Took 0.003950 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.06.13-14.49.44:373][272]LogRenderer: Reallocating scene render targets to support 1524x924 Format 10 NumSamples 1 (Frame:115).
+[2022.06.13-14.49.44:510][280]LogSlate: Window 'Turret' being destroyed
+[2022.06.13-14.49.46:326][388]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.06.13-14.49.46:326][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.13-14.50.18:023][746]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.13-14.50.18:032][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.13-14.50.18:036][746]PIE: New page: PIE session: Untitled_1 (14-Jun-2022, 1:50:18 am)
+[2022.06.13-14.50.18:041][746]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.06.13-14.50.18:042][746]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.06.13-14.50.18:043][746]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2022.06.13-14.50.18:048][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003720s)
+[2022.06.13-14.50.18:049][746]LogAIModule: Creating AISystem for world Untitled_1
+[2022.06.13-14.50.18:050][746]LogPlayLevel: PIE: World Init took: (0.002117s)
+[2022.06.13-14.50.18:050][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006646s)
+[2022.06.13-14.50.18:059][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.06.13-14.50.18:062][746]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.06.13-14.50.18:062][746]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.13-14.50.18:062][746]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.13-14.50.18:062][746]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.13-14.50.18:062][746]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.13-14.50.18:062][746]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.13-14.50.18:062][746]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.13-14.50.18:062][746]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.13-14.50.18:062][746]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.13-14.50.18:063][746]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.13-14.50.18:063][746]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.13-14.50.18:065][746]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.13-14.50.18:065][746]LogAudioMixer: Display: 1: FrontRight
+[2022.06.13-14.50.18:140][746]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.06.13-14.50.18:141][746]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.13-14.50.18:141][746]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.13-14.50.18:141][746]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.13-14.50.18:142][746]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.13-14.50.18:142][746]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.13-14.50.18:142][746]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.13-14.50.18:154][746]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.13-14.50.18:154][746]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.13-14.50.18:154][746]LogInit: FAudioDevice initialized.
+[2022.06.13-14.50.18:154][746]LogAudio: Display: Audio Device (ID: 2) registered with world 'Untitled_1'.
+[2022.06.13-14.50.18:166][746]LogLoad: Game class is 'GameModeBase'
+[2022.06.13-14.50.18:172][746]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2022.06.13-20.20.18
+[2022.06.13-14.50.18:174][746]LogWorld: Bringing up level for play took: 0.001475
+[2022.06.13-14.50.18:175][746]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.06.13-14.50.18:187][746]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.06.13-14.50.18:192][746]PIE: Server logged in
+[2022.06.13-14.50.18:194][746]PIE: Play in editor total start time 0.166 seconds.
+[2022.06.13-14.50.36:807][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.13-14.50.36:807][856]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2022.06.13-14.50.36:809][856]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2022.06.13-14.50.36:809][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.13-14.50.36:820][856]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.13-14.50.36:822][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.13-14.50.36:828][856]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.13-14.50.36:830][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.13-14.50.36:831][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.13-14.50.36:845][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.13-14.50.36:850][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.06.13-14.50.36:885][858]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.06.13-14.59.29:968][565]Candidate modules for hot reload:
+[2022.06.13-14.59.29:968][565]  Tank_vs_Zombies
+[2022.06.13-14.59.29:968][565]Launching UnrealBuildTool... [C:/Program Files/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Tank_vs_Zombies,9256 Tank_vs_ZombiesEditor Win64 Development -Project="C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Tank_vs_Zombies.uproject" "C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Tank_vs_Zombies.uproject"  -IgnoreJunk]
+[2022.06.13-14.59.30:049][565]Warning: Starting HotReload took  1.8s.
+[2022.06.13-14.59.32:224][657]LogSlate: Took 0.420775 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.13-15.00.01:079][539]CompilerResultsLog: New page: Compilation - 14-Jun-2022, 2:00:00 am
+[2022.06.13-15.00.01:079][539]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Unreal Engine\Tanks vs Zombies C++).
+[2022.06.13-15.00.01:079][539]CompilerResultsLog: Parsing headers for Tank_vs_ZombiesEditor
+[2022.06.13-15.00.01:079][539]CompilerResultsLog:   Running UnrealHeaderTool "C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Tank_vs_Zombies.uproject" "C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\Tank_vs_ZombiesEditor\Development\Tank_vs_ZombiesEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\rahul\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.06.13-15.00.01:079][539]CompilerResultsLog: Reflection code generated for Tank_vs_ZombiesEditor in 16.1668707 seconds
+[2022.06.13-15.00.01:079][539]CompilerResultsLog: Building Tank_vs_ZombiesEditor...
+[2022.06.13-15.00.01:079][539]CompilerResultsLog: Using Visual Studio 2019 14.29.30143 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.06.13-15.00.01:079][539]CompilerResultsLog: Building 6 actions with 8 processes...
+[2022.06.13-15.00.01:079][539]CompilerResultsLog:   [1/6] Tank.cpp
+[2022.06.13-15.00.01:112][539]CompilerResultsLog:    C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Source\Tank_vs_Zombies\Tank.cpp(25) : error C2146: syntax error: missing ';' before identifier 'ChildTurret'
+[2022.06.13-15.00.01:112][539]CompilerResultsLog:   C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Source\Tank_vs_Zombies\Tank.cpp(19): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2022.06.13-15.00.01:112][539]CompilerResultsLog:   C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Source\Tank_vs_Zombies\Tank.cpp(22): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2022.06.13-15.00.01:112][539]CompilerResultsLog:   C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Source\Tank_vs_Zombies\Tank.cpp(25): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2022.06.13-15.00.01:112][539]CompilerResultsLog:   [2/6] Tank_vs_Zombies.init.gen.cpp
+[2022.06.13-15.00.01:112][539]CompilerResultsLog:   [3/6] Tank.gen.cpp
+[2022.06.13-15.00.01:113][539]LogMainFrame: MainFrame: Module compiling took 32.066 seconds
+[2022.06.13-15.00.01:144][539]Warning: HotReload failed, recompile failed
+[2022.06.13-15.01.41:833][392]Candidate modules for hot reload:
+[2022.06.13-15.01.41:833][392]  Tank_vs_Zombies
+[2022.06.13-15.01.41:833][392]Launching UnrealBuildTool... [C:/Program Files/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Tank_vs_Zombies,9254 Tank_vs_ZombiesEditor Win64 Development -Project="C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Tank_vs_Zombies.uproject" "C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Tank_vs_Zombies.uproject"  -IgnoreJunk]
+[2022.06.13-15.01.41:835][392]Warning: Starting HotReload took  0.0s.
+[2022.06.13-15.01.47:240][701]CompilerResultsLog: New page: Compilation - 14-Jun-2022, 2:01:47 am
+[2022.06.13-15.01.47:242][701]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Unreal Engine\Tanks vs Zombies C++).
+[2022.06.13-15.01.47:242][701]CompilerResultsLog: Building Tank_vs_ZombiesEditor...
+[2022.06.13-15.01.47:242][701]CompilerResultsLog: Using Visual Studio 2019 14.29.30143 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.06.13-15.01.47:242][701]CompilerResultsLog: Building 4 actions with 8 processes...
+[2022.06.13-15.01.47:242][701]CompilerResultsLog:   [1/4] Tank.cpp
+[2022.06.13-15.01.47:242][701]CompilerResultsLog:   C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Source\Tank_vs_Zombies\Tank.cpp(19): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2022.06.13-15.01.47:242][701]CompilerResultsLog:   C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Source\Tank_vs_Zombies\Tank.cpp(22): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2022.06.13-15.01.47:242][701]CompilerResultsLog:   C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Source\Tank_vs_Zombies\Tank.cpp(25): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2022.06.13-15.01.47:242][701]CompilerResultsLog:   [2/4] UE4Editor-Tank_vs_Zombies-9254.lib
+[2022.06.13-15.01.47:242][701]CompilerResultsLog:      Creating library C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Development\Tank_vs_Zombies\UE4Editor-Tank_vs_Zombies-9254.lib and object C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Development\Tank_vs_Zombies\UE4Editor-Tank_vs_Zombies-9254.exp
+[2022.06.13-15.01.47:242][701]CompilerResultsLog:   [3/4] UE4Editor-Tank_vs_Zombies-9254.dll
+[2022.06.13-15.01.47:242][701]CompilerResultsLog:      Creating library C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Development\Tank_vs_Zombies\UE4Editor-Tank_vs_Zombies-9254.suppressed.lib and object C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Development\Tank_vs_Zombies\UE4Editor-Tank_vs_Zombies-9254.suppressed.exp
+[2022.06.13-15.01.47:242][701]CompilerResultsLog:   [4/4] Tank_vs_ZombiesEditor.target
+[2022.06.13-15.01.47:243][701]CompilerResultsLog: Total time in Parallel executor: 4.59 seconds
+[2022.06.13-15.01.47:243][701]CompilerResultsLog: Total execution time: 5.30 seconds
+[2022.06.13-15.01.47:243][701]LogMainFrame: MainFrame: Module compiling took 5.413 seconds
+[2022.06.13-15.01.48:034][701]LogClass: Could not find existing class Tank in package /Script/Tank_vs_Zombies for HotReload, assuming new class
+[2022.06.13-15.01.48:165][701]LogHotReload: Re-instancing Tank after hot-reload.
+[2022.06.13-15.01.48:183][701]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Tank_vs_Zombies' in 0.0004 seconds. Added 4 classes and 2 folders.
+[2022.06.13-15.01.48:184][701]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.06.13-15.01.48:915][701]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0280 seconds. Added 3605 classes and 861 folders.
+[2022.06.13-15.01.48:918][701]Display: HotReload took  7.1s.
+[2022.06.13-15.02.11:308][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.06.13-15.02.15:859][741]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.06.13-15.02.15:932][742]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2022.06.13-15.02.26:364][349]LogEditorViewport: Clicking Background
+[2022.06.13-15.05.34:091][764]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.06.13-15.05.34:110][764]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.06.13-15.05.34:115][764]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.06.13-15.05.41:438][204]LogContentBrowser: Attempting asset rename: NewBlueprint -> Tank_BP
+[2022.06.13-15.05.41:494][204]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.06.13-15.06.15:725][458]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Tank_BP.Tank_BP
+[2022.06.13-15.06.16:808][458]LogBlueprintEditor: Perf: 0.8 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2022.06.13-15.06.16:808][458]LogBlueprintEditor: Perf: 0.6 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary
+[2022.06.13-15.06.17:817][458]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0137 seconds. Added 126 classes and 0 folders.
+[2022.06.13-15.06.21:490][548]LogSlate: Window 'Tank_BP' being destroyed
+[2022.06.13-15.06.22:823][623]LogUObjectHash: Compacting FUObjectHashTables data took  12.49ms
+[2022.06.13-15.06.23:862][623]LogSlate: Window 'Save Content' being destroyed
+[2022.06.13-15.06.23:897][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Tank_BP" FILE="../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Blueprint/Tank_BP.uasset" SILENT=true
+[2022.06.13-15.06.23:916][623]LogSavePackage: Moving '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Tank_BPBA56FD084EA2217C8FC9EDB115B710C2.tmp' to '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Blueprint/Tank_BP.uasset'
+[2022.06.13-15.06.23:948][623]AssetCheck: New page: Asset Save: Tank_BP
+[2022.06.13-15.06.23:948][623]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Tank_BP.Tank_BP
+[2022.06.13-15.06.26:269][762]LogSlate: Took 0.000881 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.06.13-15.11.12:982][523]BlueprintLog: New page: Compile Tank_BP
+[2022.06.13-15.11.13:056][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.06.13-15.11.13:785][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Tank_BP" FILE="../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Blueprint/Tank_BP.uasset" SILENT=true
+[2022.06.13-15.11.13:870][564]LogSavePackage: Moving '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Tank_BP72DF39BB4EA50F54AA6C2D8656E8D07D.tmp' to '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Blueprint/Tank_BP.uasset'
+[2022.06.13-15.11.13:883][564]AssetCheck: New page: Asset Save: Tank_BP
+[2022.06.13-15.11.13:883][564]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Tank_BP.Tank_BP
+[2022.06.13-15.12.18:411][741]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.13-15.12.19:733][819]BlueprintLog: New page: Compile Tank_BP
+[2022.06.13-15.12.19:791][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.06.13-15.12.20:568][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Tank_BP" FILE="../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Blueprint/Tank_BP.uasset" SILENT=true
+[2022.06.13-15.12.20:709][863]LogSavePackage: Moving '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Tank_BP3AACA4BF4BC11E0DFE2A7A9C8E82271C.tmp' to '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Blueprint/Tank_BP.uasset'
+[2022.06.13-15.12.20:721][863]AssetCheck: New page: Asset Save: Tank_BP
+[2022.06.13-15.12.20:721][863]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Tank_BP.Tank_BP
+[2022.06.13-15.16.25:315][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.06.13-15.16.26:511][ 38]LogSlate: Window 'Save Content' being destroyed
+[2022.06.13-15.16.32:265][ 38]LogSlate: Window 'Save Level As' being destroyed
+[2022.06.13-15.16.33:331][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.06.13-15.16.38:130][ 95]LogSlate: Window 'Save Content' being destroyed
+[2022.06.13-15.16.51:593][ 95]LogSlate: Window 'Save Level As' being destroyed
+[2022.06.13-15.16.51:616][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_00" FILE="../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.13-15.16.51:655][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.06.13-15.16.51:671][ 95]LogSavePackage: Moving '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Level_00945DA7FE407D315E4C64378E1B5C2133.tmp' to '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Level_00.umap'
+[2022.06.13-15.16.51:678][ 95]LogFileHelpers: Saving map 'Level_00' took 0.066
+[2022.06.13-15.16.51:711][ 95]AssetCheck: New page: Asset Save: Level_00
+[2022.06.13-15.16.51:711][ 95]LogContentValidation: Display: Validating World /Game/Level_00.Level_00
+[2022.06.13-15.16.57:924][433]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.06.13-15.16.59:014][433]LogSlate: Window 'Save Content' being destroyed
+[2022.06.13-15.16.59:087][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_00_BuiltData" FILE="../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Level_00_BuiltData.uasset" SILENT=true
+[2022.06.13-15.16.59:148][433]LogSavePackage: Moving '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Level_00_BuiltDataE666013F47542DA590436FA2A302937B.tmp' to '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Level_00_BuiltData.uasset'
+[2022.06.13-15.16.59:167][433]AssetCheck: New page: Asset Save: Level_00_BuiltData
+[2022.06.13-15.16.59:167][433]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level_00_BuiltData.Level_00_BuiltData
+[2022.06.13-15.17.31:856][588]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.13-15.17.33:018][588]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.13-15.17.33:018][588]LogAudioMixer: Display: 1: FrontRight
+[2022.06.13-15.17.33:796][589]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.13-15.17.33:832][589]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.13-15.17.33:832][589]LogAudioMixer: Display: 1: FrontRight
+[2022.06.13-15.17.50:541][639]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.13-15.40.16:847][639]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.13-15.40.16:847][639]LogAudioMixer: Display: 1: FrontRight
+[2022.06.13-15.40.19:277][640]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.13-15.40.19:291][640]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.13-15.40.19:291][640]LogAudioMixer: Display: 1: FrontRight
+[2022.06.13-15.40.35:266][641]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.06.13-15.40.37:658][641]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.06.13-15.43.11:194][117]LogHttp: Warning: 0000028B215DE400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFC116C3C-400C-FCCF-A048-66A06B15D2B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=797dfe7f499b298c518ea1b0b85d55a6%7Ce696f7b7b1794846b6332884ba1f0b45%7C56008a8b-f423-4bdc-a24c-594d9645fc41&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.13-15.43.11:194][117]LogHttp: Warning: 0000028B215DE400: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.06.13-15.43.11:194][117]LogHttp: Warning: 0000028B215DE400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x28af992feb0 [can pipeline])
+[2022.06.13-15.43.11:194][117]LogHttp: Warning: 0000028B215DE400: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2022.06.13-15.43.11:194][117]LogHttp: Warning: 0000028B215DE400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.88.129.231) port 443 (#1))
+[2022.06.13-15.43.11:194][117]LogHttp: Warning: 0000028B215DE400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.06.13-15.43.11:194][117]LogHttp: Warning: 0000028B215DE400: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.06.13-15.43.11:194][117]LogHttp: Warning: 0000028B215DE400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.06.13-15.43.11:194][117]LogHttp: Warning: 0000028B215DE400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.06.13-15.43.11:194][117]LogHttp: Warning: 0000028B215DE400: libcurl info message cache 7 (Closing connection 1)
+[2022.06.13-15.43.11:211][118]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFC116C3C-400C-FCCF-A048-66A06B15D2B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=797dfe7f499b298c518ea1b0b85d55a6%7Ce696f7b7b1794846b6332884ba1f0b45%7C56008a8b-f423-4bdc-a24c-594d9645fc41&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.13-15.44.26:167][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Tank_BP" FILE="../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Blueprint/Tank_BP.uasset" SILENT=true
+[2022.06.13-15.44.26:399][ 74]LogSavePackage: Moving '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Tank_BP100C03F94E04BB4E6735E1BC045D0D4F.tmp' to '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Blueprint/Tank_BP.uasset'
+[2022.06.13-15.44.26:708][ 74]AssetCheck: New page: Asset Save: Tank_BP
+[2022.06.13-15.44.26:708][ 74]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Tank_BP.Tank_BP
+[2022.06.13-15.44.51:216][ 59]Cmd: DELETE
+[2022.06.13-15.44.51:228][ 59]Cmd: ACTOR DELETE
+[2022.06.13-15.44.51:383][ 59]LogEditorActor: Deleted Actor: Tank_BP_C
+[2022.06.13-15.44.51:394][ 59]LogEditorActor: Deleted Actor: Tank_BP_C
+[2022.06.13-15.44.51:541][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2022.06.13-15.44.51:545][ 59]LogEditorActor: Deleted 2 Actors (0.191 secs)
+[2022.06.13-15.46.35:254][891]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.06.13-15.46.40:836][891]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.06.13-15.46.40:854][891]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.06.13-15.46.40:865][891]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.06.13-15.46.41:028][898]LogHttp: Warning: 0000028B1D9D7900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFC116C3C-400C-FCCF-A048-66A06B15D2B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=797dfe7f499b298c518ea1b0b85d55a6%7Ce696f7b7b1794846b6332884ba1f0b45%7C56008a8b-f423-4bdc-a24c-594d9645fc41&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.13-15.46.41:028][898]LogHttp: Warning: 0000028B1D9D7900: request failed, libcurl error: 0 (No error)
+[2022.06.13-15.46.41:028][898]LogHttp: Warning: 0000028B1D9D7900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x28af992feb0 [can pipeline])
+[2022.06.13-15.46.41:028][898]LogHttp: Warning: 0000028B1D9D7900: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2022.06.13-15.46.41:028][898]LogHttp: Warning: 0000028B1D9D7900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (23.20.182.25) port 443 (#2))
+[2022.06.13-15.46.41:028][898]LogHttp: Warning: 0000028B1D9D7900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.06.13-15.46.41:028][898]LogHttp: Warning: 0000028B1D9D7900: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.06.13-15.46.41:028][898]LogHttp: Warning: 0000028B1D9D7900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.06.13-15.46.41:028][898]LogHttp: Warning: 0000028B1D9D7900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.06.13-15.46.41:028][898]LogHttp: Warning: 0000028B1D9D7900: libcurl info message cache 7 (Closing connection 2)
+[2022.06.13-15.46.41:028][898]LogHttp: Warning: 0000028B1D9D7900: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.06.13-15.46.41:028][898]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFC116C3C-400C-FCCF-A048-66A06B15D2B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=797dfe7f499b298c518ea1b0b85d55a6%7Ce696f7b7b1794846b6332884ba1f0b45%7C56008a8b-f423-4bdc-a24c-594d9645fc41&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.13-15.46.47:302][274]LogContentBrowser: Attempting asset rename: NewBlueprint -> Turret_BP
+[2022.06.13-15.46.47:342][274]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.06.13-15.46.54:176][557]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.13-15.46.54:214][557]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.13-15.46.54:214][557]LogAudioMixer: Display: 1: FrontRight
+[2022.06.13-16.28.06:174][561]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.13-16.28.06:620][561]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.13-16.28.06:620][561]LogAudioMixer: Display: 1: FrontRight
+[2022.06.13-16.28.07:964][562]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.13-16.28.08:654][562]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.13-16.28.08:654][562]LogAudioMixer: Display: 1: FrontRight
+[2022.06.13-16.28.10:910][563]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.13-16.28.10:925][563]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.13-16.28.10:925][563]LogAudioMixer: Display: 1: FrontRight
+[2022.06.13-16.28.17:545][573]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.06.13-16.28.17:604][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_00" FILE="../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Autosaves/Game/Level_00_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.06.13-16.28.17:627][573]LogSavePackage: Moving '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Level_00_Auto171D4339B4DBC7CBB48182FB88390F2FF.tmp' to '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Autosaves/Game/Level_00_Auto1.umap'
+[2022.06.13-16.28.17:628][573]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level_00' took 0.175
+[2022.06.13-16.28.17:629][573]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.175
+[2022.06.13-16.34.54:541][879]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Turret_BP.Turret_BP
+[2022.06.13-16.36.49:007][640]LogHotReload: New module detected: UE4Editor-Tank_vs_Zombies-0004.dll
+[2022.06.13-16.36.49:028][641]LogHotReload: Starting Hot-Reload from IDE
+[2022.06.13-16.36.52:302][641]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Tank_vs_Zombies' in 0.0441 seconds. Added 4 classes and 2 folders.
+[2022.06.13-16.36.52:321][641]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.06.13-16.36.53:875][641]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.1938 seconds. Added 3605 classes and 861 folders.
+[2022.06.13-16.36.53:905][641]Display: HotReload took  4.9s.
+[2022.06.13-16.36.55:556][677]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.13-16.36.56:628][741]BlueprintLog: New page: Compile Turret_BP
+[2022.06.13-16.36.57:154][741]LogUObjectHash: Compacting FUObjectHashTables data took   9.42ms
+[2022.06.13-16.36.57:771][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Turret_BP" FILE="../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Blueprint/Turret_BP.uasset" SILENT=true
+[2022.06.13-16.36.58:138][770]LogSavePackage: Moving '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Turret_BP40EF89304208197FBEDC649A1D858D19.tmp' to '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Blueprint/Turret_BP.uasset'
+[2022.06.13-16.36.58:249][770]AssetCheck: New page: Asset Save: Turret_BP
+[2022.06.13-16.36.58:249][770]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Turret_BP.Turret_BP
+[2022.06.13-16.36.59:478][829]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.06.13-16.36.59:482][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.13-16.37.01:921][949]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Turret_BP.Turret_BP
+[2022.06.13-16.37.04:154][ 41]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.06.13-16.37.04:154][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.13-16.37.04:320][ 41]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Turret_BP.Turret_BP
+[2022.06.13-16.37.07:948][202]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.06.13-16.37.07:948][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.13-16.37.12:087][408]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2022.06.13-16.37.13:270][408]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.13-16.37.13:319][408]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprint/Turret_BP.Turret_BP
+[2022.06.13-16.37.19:046][408]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2022.06.13-16.37.19:702][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.06.13-16.37.19:723][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.06.13-16.37.22:255][510]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.06.13-16.37.28:557][510]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.06.13-16.37.28:571][510]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.06.13-16.37.28:582][510]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.06.13-16.37.37:230][ 14]LogContentBrowser: Attempting asset rename: NewBlueprint -> Turret_BP
+[2022.06.13-16.37.37:236][ 14]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.06.13-16.37.39:289][129]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Turret_BP.Turret_BP
+[2022.06.13-16.38.59:161][ 61]Candidate modules for hot reload:
+[2022.06.13-16.38.59:161][ 61]  Tank_vs_Zombies
+[2022.06.13-16.38.59:161][ 61]Launching UnrealBuildTool... [C:/Program Files/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Tank_vs_Zombies,3754 Tank_vs_ZombiesEditor Win64 Development -Project="C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Tank_vs_Zombies.uproject" "C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Tank_vs_Zombies.uproject"  -IgnoreJunk]
+[2022.06.13-16.38.59:169][ 61]Warning: Starting HotReload took  0.2s.
+[2022.06.13-16.39.01:906][204]CompilerResultsLog: New page: Compilation - 14-Jun-2022, 3:39:01 am
+[2022.06.13-16.39.01:907][204]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Unreal Engine\Tanks vs Zombies C++).
+[2022.06.13-16.39.01:907][204]CompilerResultsLog: Building Tank_vs_ZombiesEditor...
+[2022.06.13-16.39.01:907][204]CompilerResultsLog: Using Visual Studio 2019 14.29.30143 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.06.13-16.39.01:907][204]CompilerResultsLog: Building 3 actions with 8 processes...
+[2022.06.13-16.39.01:907][204]CompilerResultsLog:   [1/3] UE4Editor-Tank_vs_Zombies-3754.lib
+[2022.06.13-16.39.01:907][204]CompilerResultsLog:      Creating library C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Development\Tank_vs_Zombies\UE4Editor-Tank_vs_Zombies-3754.lib and object C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Development\Tank_vs_Zombies\UE4Editor-Tank_vs_Zombies-3754.exp
+[2022.06.13-16.39.01:907][204]CompilerResultsLog:   [2/3] UE4Editor-Tank_vs_Zombies-3754.dll
+[2022.06.13-16.39.01:907][204]CompilerResultsLog:      Creating library C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Development\Tank_vs_Zombies\UE4Editor-Tank_vs_Zombies-3754.suppressed.lib and object C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Development\Tank_vs_Zombies\UE4Editor-Tank_vs_Zombies-3754.suppressed.exp
+[2022.06.13-16.39.01:907][204]CompilerResultsLog:   [3/3] Tank_vs_ZombiesEditor.target
+[2022.06.13-16.39.01:907][204]CompilerResultsLog: Total time in Parallel executor: 1.77 seconds
+[2022.06.13-16.39.01:907][204]CompilerResultsLog: Total execution time: 2.55 seconds
+[2022.06.13-16.39.01:907][204]LogMainFrame: MainFrame: Module compiling took 2.753 seconds
+[2022.06.13-16.39.02:011][204]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Tank_vs_Zombies' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2022.06.13-16.39.02:014][204]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.06.13-16.39.02:630][204]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.5175 seconds. Added 3605 classes and 861 folders.
+[2022.06.13-16.39.02:631][204]Display: HotReload took  3.6s.
+[2022.06.13-16.39.03:434][227]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.13-16.39.11:516][656]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2022.06.13-16.39.12:808][656]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.13-16.39.12:901][656]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.06.13-16.39.12:901][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.13-16.39.12:975][656]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprint/Turret_BP.Turret_BP
+[2022.06.13-16.39.13:528][656]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.06.13-16.40.06:624][655]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.06.13-16.40.12:186][655]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.06.13-16.40.12:191][655]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.06.13-16.40.12:200][655]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.06.13-16.40.18:687][ 39]LogContentBrowser: Attempting asset rename: NewBlueprint -> Turret_BP
+[2022.06.13-16.40.18:690][ 39]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.06.13-16.40.20:251][130]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Turret_BP.Turret_BP
+[2022.06.13-16.40.54:383][ 96]BlueprintLog: New page: Compile Turret_BP
+[2022.06.13-16.40.54:593][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2022.06.13-16.40.55:235][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Turret_BP" FILE="../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Blueprint/Turret_BP.uasset" SILENT=true
+[2022.06.13-16.40.55:704][124]LogSavePackage: Moving '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Turret_BPBC43657B4BE46FF719CC919051776FA5.tmp' to '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Blueprint/Turret_BP.uasset'
+[2022.06.13-16.40.56:055][124]AssetCheck: New page: Asset Save: Turret_BP
+[2022.06.13-16.40.56:055][124]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Turret_BP.Turret_BP
+[2022.06.13-16.41.03:973][588]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.06.13-16.41.38:970][241]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2022.06.13-16.41.38:974][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_00" FILE="../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Autosaves/Game/Level_00_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.06.13-16.41.38:982][241]LogSavePackage: Moving '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Level_00_Auto2A572337E4767118F764B4289D5FC16FE.tmp' to '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Autosaves/Game/Level_00_Auto2.umap'
+[2022.06.13-16.41.38:983][241]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level_00' took 0.048
+[2022.06.13-16.41.38:983][241]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2022.06.13-16.41.38:984][241]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Tank_BP] ([1] browsable assets)...
+[2022.06.13-16.41.38:984][241]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Tank_BP]
+[2022.06.13-16.41.39:632][241]LogSavePackage: Moving '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Tank_BP_Auto292F167B74F8CE940BE90B09841EBACEF.tmp' to '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Autosaves/Game/Blueprint/Tank_BP_Auto2.uasset'
+[2022.06.13-16.41.39:633][241]LogFileHelpers: Auto-saving content packages took 0.650
+[2022.06.13-16.43.46:433][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Turret_BP" FILE="../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Blueprint/Turret_BP.uasset" SILENT=true
+[2022.06.13-16.43.47:045][258]LogSavePackage: Moving '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Turret_BPF1D1277742F2D19A678973BF125F6C22.tmp' to '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Blueprint/Turret_BP.uasset'
+[2022.06.13-16.43.47:103][258]AssetCheck: New page: Asset Save: Turret_BP
+[2022.06.13-16.43.47:103][258]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Turret_BP.Turret_BP
+[2022.06.13-16.43.48:546][345]BlueprintLog: New page: Compile Tank_BP
+[2022.06.13-16.43.48:669][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.06.13-16.43.49:914][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Tank_BP" FILE="../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Blueprint/Tank_BP.uasset" SILENT=true
+[2022.06.13-16.43.50:209][410]LogSavePackage: Moving '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Tank_BPE72AA15E4F1BAD26C95294A395220DB3.tmp' to '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Blueprint/Tank_BP.uasset'
+[2022.06.13-16.43.50:252][410]AssetCheck: New page: Asset Save: Tank_BP
+[2022.06.13-16.43.50:252][410]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Tank_BP.Tank_BP
+[2022.06.13-16.44.14:170][786]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.13-16.44.24:781][160]BlueprintLog: New page: Compile Tank_BP
+[2022.06.13-16.44.24:935][160]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.06.13-16.44.25:413][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Tank_BP" FILE="../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Blueprint/Tank_BP.uasset" SILENT=true
+[2022.06.13-16.44.25:659][187]LogSavePackage: Moving '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Tank_BPD08413654AB05395EB9E4E9E3864CBB0.tmp' to '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Blueprint/Tank_BP.uasset'
+[2022.06.13-16.44.25:685][187]AssetCheck: New page: Asset Save: Tank_BP
+[2022.06.13-16.44.25:685][187]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Tank_BP.Tank_BP
+[2022.06.13-16.47.00:911][960]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.13-16.47.00:999][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.13-16.47.01:021][960]PIE: New page: PIE session: Level_00 (14-Jun-2022, 3:47:01 am)
+[2022.06.13-16.47.01:062][960]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2022.06.13-16.47.01:166][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103460s)
+[2022.06.13-16.47.01:171][960]LogAIModule: Creating AISystem for world Level_00
+[2022.06.13-16.47.01:175][960]LogPlayLevel: PIE: World Init took: (0.009528s)
+[2022.06.13-16.47.01:200][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.137822s)
+[2022.06.13-16.47.01:229][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.06.13-16.47.01:250][960]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.06.13-16.47.01:251][960]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.13-16.47.01:251][960]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.13-16.47.01:251][960]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.13-16.47.01:251][960]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.13-16.47.01:251][960]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.13-16.47.01:251][960]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.13-16.47.01:251][960]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.13-16.47.01:251][960]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.13-16.47.01:253][960]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.13-16.47.01:253][960]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.13-16.47.01:268][960]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.13-16.47.01:268][960]LogAudioMixer: Display: 1: FrontRight
+[2022.06.13-16.47.01:283][960]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.06.13-16.47.01:284][960]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.13-16.47.01:284][960]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.13-16.47.01:285][960]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.13-16.47.01:594][960]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.13-16.47.01:594][960]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.13-16.47.01:594][960]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.13-16.47.01:597][960]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.13-16.47.01:597][960]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.13-16.47.01:597][960]LogInit: FAudioDevice initialized.
+[2022.06.13-16.47.01:597][960]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level_00'.
+[2022.06.13-16.47.01:990][960]LogLoad: Game class is 'GameModeBase'
+[2022.06.13-16.47.02:037][960]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 60) at 2022.06.13-22.17.02
+[2022.06.13-16.47.02:051][960]LogWorld: Bringing up level for play took: 0.052165
+[2022.06.13-16.47.02:057][960]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.06.13-16.47.02:111][960]PIE: Server logged in
+[2022.06.13-16.47.02:128][960]PIE: Play in editor total start time 1.169 seconds.
+[2022.06.13-16.47.08:512][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.13-16.47.08:512][297]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level_00
+[2022.06.13-16.47.08:513][297]LogWorld: UWorld::CleanupWorld for Level_00, bSessionEnded=true, bCleanupResources=true
+[2022.06.13-16.47.08:513][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.13-16.47.08:523][297]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.13-16.47.08:540][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.13-16.47.08:646][297]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.13-16.47.08:648][297]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.13-16.47.08:648][297]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.13-16.47.08:661][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.13-16.47.08:669][297]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.06.13-16.47.08:779][298]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.06.13-16.47.18:946][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Turret_BP" FILE="../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Blueprint/Turret_BP.uasset" SILENT=true
+[2022.06.13-16.47.19:122][767]LogSavePackage: Moving '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Turret_BP305515DB4471E32D1BE56199480CDAAC.tmp' to '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Blueprint/Turret_BP.uasset'
+[2022.06.13-16.47.19:180][767]AssetCheck: New page: Asset Save: Turret_BP
+[2022.06.13-16.47.19:180][767]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Turret_BP.Turret_BP
+[2022.06.13-16.49.59:008][276]BlueprintLog: New page: Compile Turret_BP
+[2022.06.13-16.49.59:075][276]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.06.13-16.49.59:558][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Turret_BP" FILE="../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Blueprint/Turret_BP.uasset" SILENT=true
+[2022.06.13-16.49.59:808][304]LogSavePackage: Moving '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Turret_BP9B8D7DCF403F32BA3DE6E395EE2EEF96.tmp' to '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Blueprint/Turret_BP.uasset'
+[2022.06.13-16.49.59:829][304]AssetCheck: New page: Asset Save: Turret_BP
+[2022.06.13-16.49.59:829][304]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Turret_BP.Turret_BP
+[2022.06.13-16.50.26:157][745]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Sprites/Turret.Turret
+[2022.06.13-16.51.47:799][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.06.13-16.51.47:803][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_00" FILE="../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Autosaves/Game/Level_00_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.06.13-16.51.47:840][231]LogSavePackage: Moving '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Level_00_Auto3CE67C870402F7A441A5CAC855F195402.tmp' to '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Autosaves/Game/Level_00_Auto3.umap'
+[2022.06.13-16.51.47:841][231]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level_00' took 0.139
+[2022.06.13-16.51.47:841][231]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.139
+[2022.06.13-16.51.47:841][231]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/Turret] ([1] browsable assets)...
+[2022.06.13-16.51.47:850][231]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/Turret.Turret]
+[2022.06.13-16.51.47:850][231]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Turret]
+[2022.06.13-16.51.47:850][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Turret" FILE="../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Autosaves/Game/Sprites/Turret_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2022.06.13-16.51.47:853][231]LogSavePackage: Moving '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Turret_Auto337BB11464C2569B9D30317A9E0C6B939.tmp' to '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Autosaves/Game/Sprites/Turret_Auto3.uasset'
+[2022.06.13-16.51.47:854][231]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Tank_BP] ([1] browsable assets)...
+[2022.06.13-16.51.47:854][231]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Tank_BP]
+[2022.06.13-16.51.48:311][231]LogSavePackage: Moving '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Tank_BP_Auto3E2FB73754071E9D34381BD9AA32013E4.tmp' to '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Autosaves/Game/Blueprint/Tank_BP_Auto3.uasset'
+[2022.06.13-16.51.48:312][231]LogFileHelpers: Auto-saving content packages took 0.471
+[2022.06.13-16.52.20:214][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Turret" FILE="../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Sprites/Turret.uasset" SILENT=true
+[2022.06.13-16.52.20:228][385]LogSavePackage: Moving '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/TurretD34FA88D418515C626B8B1A2EA2010CA.tmp' to '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Sprites/Turret.uasset'
+[2022.06.13-16.52.20:312][385]AssetCheck: New page: Asset Save: Turret
+[2022.06.13-16.52.20:312][385]LogContentValidation: Display: Validating PaperSprite /Game/Sprites/Turret.Turret
+[2022.06.13-16.52.53:181][899]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.06.13-16.52.53:181][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.13-16.54.59:286][857]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Sprites/TankBody.TankBody
+[2022.06.13-16.55.14:254][740]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.06.13-16.55.14:254][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.13-16.58.17:349][814]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.13-16.58.17:354][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.13-16.58.17:355][814]PIE: New page: PIE session: Level_00 (14-Jun-2022, 3:58:17 am)
+[2022.06.13-16.58.17:355][814]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2022.06.13-16.58.17:358][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003661s)
+[2022.06.13-16.58.17:360][814]LogAIModule: Creating AISystem for world Level_00
+[2022.06.13-16.58.17:361][814]LogPlayLevel: PIE: World Init took: (0.002306s)
+[2022.06.13-16.58.17:361][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.006188s)
+[2022.06.13-16.58.17:505][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.06.13-16.58.17:510][814]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.06.13-16.58.17:510][814]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.13-16.58.17:510][814]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.13-16.58.17:510][814]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.13-16.58.17:510][814]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.13-16.58.17:510][814]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.13-16.58.17:510][814]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.13-16.58.17:510][814]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.13-16.58.17:510][814]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.13-16.58.17:511][814]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.13-16.58.17:511][814]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.13-16.58.17:512][814]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.13-16.58.17:512][814]LogAudioMixer: Display: 1: FrontRight
+[2022.06.13-16.58.17:523][814]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.06.13-16.58.17:523][814]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.13-16.58.17:523][814]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.13-16.58.17:523][814]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.13-16.58.17:540][814]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.13-16.58.17:540][814]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.13-16.58.17:540][814]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.13-16.58.17:652][814]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.13-16.58.17:652][814]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.13-16.58.17:652][814]LogInit: FAudioDevice initialized.
+[2022.06.13-16.58.17:652][814]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level_00'.
+[2022.06.13-16.58.17:661][814]LogLoad: Game class is 'GameModeBase'
+[2022.06.13-16.58.17:685][814]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 60) at 2022.06.13-22.28.17
+[2022.06.13-16.58.17:686][814]LogWorld: Bringing up level for play took: 0.002095
+[2022.06.13-16.58.17:687][814]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.06.13-16.58.17:695][814]PIE: Server logged in
+[2022.06.13-16.58.17:697][814]PIE: Play in editor total start time 0.344 seconds.
+[2022.06.13-16.58.25:798][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.13-16.58.25:798][298]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level_00
+[2022.06.13-16.58.25:798][298]LogWorld: UWorld::CleanupWorld for Level_00, bSessionEnded=true, bCleanupResources=true
+[2022.06.13-16.58.25:798][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.13-16.58.25:911][298]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.13-16.58.25:929][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.13-16.58.25:989][298]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.13-16.58.25:989][298]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.13-16.58.25:990][298]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.13-16.58.26:001][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.13-16.58.26:017][298]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.06.13-16.58.26:205][299]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.06.13-16.58.27:754][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.06.13-16.58.28:303][400]LogEditorViewport: Clicking on Actor (LMB): Tank_BP_C (Tank_BP)
+[2022.06.13-16.58.29:233][453]LogEditorViewport: Clicking on Actor (LMB): Tank_BP_C (Tank_BP)
+[2022.06.13-16.58.29:818][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.06.13-16.58.30:576][532]LogEditorViewport: Clicking on Actor (LMB): Tank_BP_C (Tank_BP)
+[2022.06.13-16.58.31:577][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.06.13-16.58.33:149][683]LogEditorViewport: Clicking on Actor (LMB): Tank_BP_C (Tank_BP)
+[2022.06.13-16.58.39:202][ 43]BlueprintLog: New page: Compile Turret_BP
+[2022.06.13-16.58.39:378][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.06.13-16.58.40:115][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Turret_BP" FILE="../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Blueprint/Turret_BP.uasset" SILENT=true
+[2022.06.13-16.58.40:435][ 84]LogSavePackage: Moving '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Turret_BP7AC231954169A9A9C0842BA5307C7F00.tmp' to '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Blueprint/Turret_BP.uasset'
+[2022.06.13-16.58.40:447][ 84]AssetCheck: New page: Asset Save: Turret_BP
+[2022.06.13-16.58.40:447][ 84]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Turret_BP.Turret_BP
+[2022.06.13-16.58.41:968][176]LogEditorViewport: Clicking on Actor (LMB): Tank_BP_C (Tank_BP)
+[2022.06.13-16.58.43:188][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.06.13-16.58.58:396][985]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.06.13-17.01.57:373][846]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2022.06.13-17.01.57:806][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_00" FILE="../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Autosaves/Game/Level_00_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.06.13-17.01.57:928][846]LogSavePackage: Moving '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Level_00_Auto4AC22612146112F6D3D0805A88ED6D2B2.tmp' to '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Autosaves/Game/Level_00_Auto4.umap'
+[2022.06.13-17.01.57:929][846]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level_00' took 0.682
+[2022.06.13-17.01.57:929][846]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.682
+[2022.06.13-17.01.57:929][846]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Tank_BP] ([1] browsable assets)...
+[2022.06.13-17.01.57:930][846]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Tank_BP]
+[2022.06.13-17.01.58:726][846]LogSavePackage: Moving '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Tank_BP_Auto4DE5B4248479AC1EFE7086E809F3B5592.tmp' to '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Autosaves/Game/Blueprint/Tank_BP_Auto4.uasset'
+[2022.06.13-17.01.58:727][846]LogFileHelpers: Auto-saving content packages took 0.798
+[2022.06.13-17.08.09:826][ 74]LogSlate: Window 'Project Settings' being destroyed
+[2022.06.13-17.08.11:954][187]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.06.13-17.08.13:536][187]LogSlate: Window 'Save Content' being destroyed
+[2022.06.13-17.08.13:555][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_00" FILE="../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.13-17.08.13:586][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.06.13-17.08.13:592][187]LogSavePackage: Moving '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Level_0014F1C7CC4AB3D4D7BD03D68A6DF8BF87.tmp' to '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Level_00.umap'
+[2022.06.13-17.08.13:645][187]LogFileHelpers: Saving map 'Level_00' took 0.091
+[2022.06.13-17.08.13:645][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Tank_BP" FILE="../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Blueprint/Tank_BP.uasset" SILENT=true
+[2022.06.13-17.08.13:761][187]LogSavePackage: Moving '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Tank_BP98E7B7C0471B2BF0660915B595A80A0D.tmp' to '../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Blueprint/Tank_BP.uasset'
+[2022.06.13-17.08.13:906][187]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.13-17.08.13:906][187]LogContentValidation: Display: Validating World /Game/Level_00.Level_00
+[2022.06.13-17.08.13:906][187]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Tank_BP.Tank_BP
+[2022.06.13-17.08.15:784][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.06.13-17.08.17:767][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.06.13-17.08.20:254][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms

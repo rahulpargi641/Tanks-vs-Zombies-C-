@@ -1,0 +1,5 @@
+C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Development\Tank_vs_Zombies\Definitions.Tank_vs_Zombies.h
+C:\Program Files\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Source\Tank_vs_Zombies/Tank.h
+C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Inc\Tank_vs_Zombies\Tank.generated.h

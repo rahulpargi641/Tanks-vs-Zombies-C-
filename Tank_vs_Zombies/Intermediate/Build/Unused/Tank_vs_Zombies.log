@@ -1,0 +1,15 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Unreal Engine\Tanks vs Zombies C++).
+  Building Tank_vs_ZombiesEditor...
+  Using Visual Studio 2019 14.29.30143 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 8 processes...
+    [1/4] Tank.cpp
+C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Source\Tank_vs_Zombies\Tank.cpp(19): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Source\Tank_vs_Zombies\Tank.cpp(22): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Source\Tank_vs_Zombies\Tank.cpp(25): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    [2/4] UE4Editor-Tank_vs_Zombies-0004.lib
+       Creating library C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Development\Tank_vs_Zombies\UE4Editor-Tank_vs_Zombies-0004.lib and object C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Development\Tank_vs_Zombies\UE4Editor-Tank_vs_Zombies-0004.exp
+    [3/4] UE4Editor-Tank_vs_Zombies-0004.dll
+       Creating library C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Development\Tank_vs_Zombies\UE4Editor-Tank_vs_Zombies-0004.suppressed.lib and object C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Development\Tank_vs_Zombies\UE4Editor-Tank_vs_Zombies-0004.suppressed.exp
+    [4/4] Tank_vs_ZombiesEditor.target
+  Total time in Parallel executor: 8.14 seconds
+  Total execution time: 10.36 seconds

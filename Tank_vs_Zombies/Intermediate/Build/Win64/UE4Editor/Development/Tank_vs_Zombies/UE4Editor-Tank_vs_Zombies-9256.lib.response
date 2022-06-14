@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Tank_vs_Zombies-9256.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\Tank_vs_ZombiesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Development\Tank_vs_Zombies\Tank.cpp.obj"
+"C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Development\Tank_vs_Zombies\TankModeBase.cpp.obj"
+"C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Development\Tank_vs_Zombies\Tank_vs_Zombies.cpp.obj"
+"C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Development\Tank_vs_Zombies\Tank_vs_ZombiesGameModeBase.cpp.obj"
+"C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Development\Tank_vs_Zombies\Turret.cpp.obj"
+"C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Development\Tank_vs_Zombies\Tank.gen.cpp.obj"
+"C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Development\Tank_vs_Zombies\TankModeBase.gen.cpp.obj"
+"C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Development\Tank_vs_Zombies\Tank_vs_Zombies.init.gen.cpp.obj"
+"C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Development\Tank_vs_Zombies\Tank_vs_ZombiesGameModeBase.gen.cpp.obj"
+"C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Development\Tank_vs_Zombies\Turret.gen.cpp.obj"
+"C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Development\Tank_vs_Zombies\Default.rc2.res"
+/OUT:"C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Development\Tank_vs_Zombies\UE4Editor-Tank_vs_Zombies-9256.lib"
+/INCLUDE:IMPLEMENT_MODULE_Tank_vs_Zombies

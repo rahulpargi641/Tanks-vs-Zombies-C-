@@ -1,130 +1,130 @@
-﻿Log file open, 06/11/22 10:21:01
+﻿Log file open, 06/14/22 08:08:42
 LogInit: LLM is enabled
 LogInit: LLM CsvWriter: off TraceWriter: off
 LogInit: Display: Running engine for game: Tank_vs_Zombies
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.271355
+LogStats: Stats thread started at 0.324978
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
-LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin Paper2D
-LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin CameraShakePreviewer
-LogPluginManager: Mounting plugin AnimationSharing
-LogPluginManager: Mounting plugin CLionSourceCodeAccess
-LogPluginManager: Mounting plugin GitSourceControl
-LogPluginManager: Mounting plugin PerforceSourceControl
-LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
-LogPluginManager: Mounting plugin PlasticSourceControl
-LogPluginManager: Mounting plugin PluginUtils
-LogPluginManager: Mounting plugin PropertyAccessNode
-LogPluginManager: Mounting plugin NullSourceCodeAccess
-LogPluginManager: Mounting plugin RiderSourceCodeAccess
-LogPluginManager: Mounting plugin SubversionSourceControl
-LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
-LogPluginManager: Mounting plugin UObjectPlugin
-LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
-LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin FacialAnimation
 LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin Niagara
 LogPluginManager: Mounting plugin CurveEditorTools
 LogPluginManager: Mounting plugin DataValidation
-LogPluginManager: Mounting plugin XCodeSourceCodeAccess
-LogPluginManager: Mounting plugin FacialAnimation
-LogPluginManager: Mounting plugin GameplayTagsEditor
-LogPluginManager: Mounting plugin GeometryMode
-LogPluginManager: Mounting plugin MaterialAnalyzer
 LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MaterialAnalyzer
 LogPluginManager: Mounting plugin PluginBrowser
 LogPluginManager: Mounting plugin MobileLauncherProfileWizard
 LogPluginManager: Mounting plugin SpeedTreeImporter
-LogPluginManager: Mounting plugin DatasmithContent
-LogPluginManager: Mounting plugin Niagara
-LogPluginManager: Mounting plugin VariantManagerContent
-LogPluginManager: Mounting plugin AlembicImporter
-LogPluginManager: Mounting plugin BackChannel
-LogPluginManager: Mounting plugin AutomationUtils
-LogPluginManager: Mounting plugin ChaosCloth
-LogPluginManager: Mounting plugin ChaosClothEditor
-LogPluginManager: Mounting plugin ChaosEditor
-LogPluginManager: Mounting plugin ChaosNiagara
-LogPluginManager: Mounting plugin ChaosSolverPlugin
-LogPluginManager: Mounting plugin CharacterAI
-LogPluginManager: Mounting plugin GeometryCache
-LogPluginManager: Mounting plugin GeometryProcessing
-LogPluginManager: Mounting plugin GeometryCollectionPlugin
-LogPluginManager: Mounting plugin MotoSynth
-LogPluginManager: Mounting plugin PlanarCut
-LogPluginManager: Mounting plugin PlatformCrypto
-LogPluginManager: Mounting plugin ProxyLODPlugin
-LogPluginManager: Mounting plugin SkeletalReduction
 LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin MagicLeapLightEstimation
 LogPluginManager: Mounting plugin MagicLeapMedia
 LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
 LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
 LogPluginManager: Mounting plugin AndroidMedia
-LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin AvfMedia
 LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin MediaPlayerEditor
 LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
-LogPluginManager: Mounting plugin TcpMessaging
-LogPluginManager: Mounting plugin UdpMessaging
-LogPluginManager: Mounting plugin ActorSequence
-LogPluginManager: Mounting plugin LevelSequenceEditor
-LogPluginManager: Mounting plugin MatineeToLevelSequence
-LogPluginManager: Mounting plugin TemplateSequence
 LogPluginManager: Mounting plugin OnlineSubsystem
-LogPluginManager: Mounting plugin OnlineSubsystemNull
 LogPluginManager: Mounting plugin OnlineSubsystemUtils
-LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemNull
 LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidMoviePlayer
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
 LogPluginManager: Mounting plugin AppleImageUtils
-LogPluginManager: Mounting plugin AndroidMoviePlayer
 LogPluginManager: Mounting plugin ArchVisCharacter
 LogPluginManager: Mounting plugin AssetTags
-LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin CableComponent
-LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin ChunkDownloader
 LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin EditableMesh
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ActorSequence
 LogPluginManager: Mounting plugin GooglePAD
 LogPluginManager: Mounting plugin GoogleCloudMessaging
-LogPluginManager: Mounting plugin LocationServicesBPLibrary
-LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
 LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
 LogPluginManager: Mounting plugin MobilePatchingUtils
-LogPluginManager: Mounting plugin PhysXVehicles
 LogPluginManager: Mounting plugin PostSplashScreen
 LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin SignificanceManager
 LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
-LogPluginManager: Mounting plugin SignificanceManager
-LogPluginManager: Mounting plugin SoundFields
 LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin SoundFields
 LogPluginManager: Mounting plugin WebMMoviePlayer
-LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ChaosSolverPlugin
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
-LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting plugin OculusVR
 LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/rahul/AppData/Local/Temp/UnrealXGEWorkingDir/
 LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.1.1
@@ -155,7 +155,7 @@ LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
 LogInit: Compiled with Visual C++: 19.24.28315.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.26
-LogInit: Command Line:  -EpicPortal -epicusername="Rahul Pargi" -epicuserid=e696f7b7b1794846b6332884ba1f0b45 -epiclocale=en -epicsandboxid=ue
+LogInit: Command Line: 
 LogInit: Base Directory: C:/Program Files/UE_4.26/Engine/Binaries/Win64/
 LogInit: Allocator: TBB
 LogInit: Installed Engine Build: 1
@@ -208,581 +208,589 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2022.06.11-04.51.02:494][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2022.06.11-04.51.02:494][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2022.06.11-04.51.02:494][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Engine.ini]
-[2022.06.11-04.51.02:494][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2022.06.11-04.51.02:494][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Engine.ini]
-[2022.06.11-04.51.02:494][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Engine.ini]
-[2022.06.11-04.51.02:494][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2022.06.11-04.51.02:494][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2022.06.11-04.51.02:494][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2022.06.11-04.51.02:494][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2022.06.11-04.51.02:494][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2022.06.11-04.51.02:494][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2022.06.11-04.51.02:494][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2022.06.11-04.51.02:494][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2022.06.11-04.51.02:494][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2022.06.11-04.51.02:494][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2022.06.11-04.51.02:494][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2022.06.11-04.51.02:494][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2022.06.11-04.51.02:494][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2022.06.11-04.51.02:494][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
-[2022.06.11-04.51.02:494][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Engine.ini]
-[2022.06.11-04.51.02:494][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2022.06.11-04.51.02:494][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2022.06.11-04.51.02:494][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2022.06.11-04.51.02:494][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2022.06.11-04.51.02:494][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2022.06.11-04.51.02:494][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2022.06.11-04.51.02:495][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
-[2022.06.11-04.51.02:495][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2022.06.11-04.51.02:495][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2022.06.11-04.51.02:495][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2022.06.11-04.51.02:495][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2022.06.11-04.51.02:495][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2022.06.11-04.51.02:495][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2022.06.11-04.51.02:495][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
-[2022.06.11-04.51.02:495][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Engine.ini]
-[2022.06.11-04.51.02:495][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Engine.ini]
-[2022.06.11-04.51.02:501][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
-[2022.06.11-04.51.02:501][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2022.06.11-04.51.02:501][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2022.06.11-04.51.02:501][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
-[2022.06.11-04.51.02:501][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2022.06.11-04.51.02:501][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
-[2022.06.11-04.51.02:501][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2022.06.11-04.51.02:501][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2022.06.11-04.51.02:501][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2022.06.11-04.51.02:501][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2022.06.11-04.51.02:501][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2022.06.11-04.51.02:502][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2022.06.11-04.51.02:503][  0]LogInit: Selected Device Profile: [Windows]
-[2022.06.11-04.51.02:503][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2022.06.11-04.51.02:503][  0]LogHAL: Display: Platform has ~ 8 GB [8451309568 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2022.06.11-04.51.02:503][  0]LogInit: Going up to parent DeviceProfile []
-[2022.06.11-04.51.02:503][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2022.06.11-04.51.02:503][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2022.06.11-04.51.02:504][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2022.06.11-04.51.02:505][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2022.06.11-04.51.02:505][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2022.06.11-04.51.02:505][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
-[2022.06.11-04.51.02:505][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Engine.ini]
-[2022.06.11-04.51.02:505][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Editor.ini]
-[2022.06.11-04.51.02:505][  0]LogInit: Computer: LAPTOP-H4T4MDIS
-[2022.06.11-04.51.02:505][  0]LogInit: User: rahul
-[2022.06.11-04.51.02:505][  0]LogInit: CPU Page size=4096, Cores=4
-[2022.06.11-04.51.02:505][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2022.06.11-04.51.02:505][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
-[2022.06.11-04.51.02:505][  0]LogMemory: Platform Memory Stats for Windows
-[2022.06.11-04.51.02:505][  0]LogMemory: Process Physical Memory: 131.11 MB used, 131.11 MB peak
-[2022.06.11-04.51.02:505][  0]LogMemory: Process Virtual Memory: 110.99 MB used, 110.99 MB peak
-[2022.06.11-04.51.02:505][  0]LogMemory: Physical Memory: 6262.77 MB used,  1797.03 MB free, 8059.80 MB total
-[2022.06.11-04.51.02:505][  0]LogMemory: Virtual Memory: 134203832.00 MB used,  13895.07 MB free, 134217728.00 MB total
-[2022.06.11-04.51.02:511][  0]LogWindows: WindowsPlatformFeatures enabled
-[2022.06.11-04.51.02:677][  0]LogInit: Physics initialised using underlying interface: PhysX
-[2022.06.11-04.51.02:680][  0]LogInit: Using OS detected language (en-US).
-[2022.06.11-04.51.02:680][  0]LogInit: Using OS detected locale (en-IN).
-[2022.06.11-04.51.02:701][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2022.06.11-04.51.03:235][  0]LogInit: Setting process to per monitor DPI aware
-[2022.06.11-04.51.03:252][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
-[2022.06.11-04.51.03:367][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2022.06.11-04.51.03:367][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2022.06.11-04.51.06:402][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2022.06.11-04.51.06:402][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
-[2022.06.11-04.51.06:402][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
-[2022.06.11-04.51.06:402][  0]LogD3D11RHI: D3D11 adapters:
-[2022.06.11-04.51.06:527][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
-[2022.06.11-04.51.06:527][  0]LogD3D11RHI:       3962/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2022.06.11-04.51.06:557][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
-[2022.06.11-04.51.06:557][  0]LogD3D11RHI:       128/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2022.06.11-04.51.06:560][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2022.06.11-04.51.06:560][  0]LogD3D11RHI:       0/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2022.06.11-04.51.06:560][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2022.06.11-04.51.06:565][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2022.06.11-04.51.06:565][  0]LogD3D11RHI:     GPU DeviceId: 0x1f99 (for the marketing name, search the web for "GPU Device Id")
-[2022.06.11-04.51.06:565][  0]LogWindows: EnumDisplayDevices:
-[2022.06.11-04.51.06:565][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
-[2022.06.11-04.51.06:566][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
-[2022.06.11-04.51.06:566][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
-[2022.06.11-04.51.06:566][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
-[2022.06.11-04.51.06:566][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
-[2022.06.11-04.51.06:566][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
-[2022.06.11-04.51.06:566][  0]LogD3D11RHI:   Driver Version: 462.30 (internal:27.21.14.6230, unified:462.30)
-[2022.06.11-04.51.06:566][  0]LogD3D11RHI:      Driver Date: 4-5-2021
-[2022.06.11-04.51.06:566][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
-[2022.06.11-04.51.06:628][  0]LogD3D11RHI: RHI has support for 64 bit atomics
-[2022.06.11-04.51.06:628][  0]LogD3D11RHI: Async texture creation enabled
-[2022.06.11-04.51.06:628][  0]LogD3D11RHI: Array index from any shader is supported
-[2022.06.11-04.51.06:667][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2022.06.11-04.51.06:668][  0]LogRHI: GeForceNow SDK initialized: 1
-[2022.06.11-04.51.07:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
-[2022.06.11-04.51.07:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
-[2022.06.11-04.51.07:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
-[2022.06.11-04.51.07:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
-[2022.06.11-04.51.07:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
-[2022.06.11-04.51.07:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
-[2022.06.11-04.51.07:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
-[2022.06.11-04.51.07:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
-[2022.06.11-04.51.07:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
-[2022.06.11-04.51.07:078][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
-[2022.06.11-04.51.07:078][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
-[2022.06.11-04.51.07:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
-[2022.06.11-04.51.07:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
-[2022.06.11-04.51.07:122][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
-[2022.06.11-04.51.07:134][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
-[2022.06.11-04.51.07:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
-[2022.06.11-04.51.07:154][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
-[2022.06.11-04.51.07:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
-[2022.06.11-04.51.07:174][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
-[2022.06.11-04.51.07:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
-[2022.06.11-04.51.07:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
-[2022.06.11-04.51.07:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
-[2022.06.11-04.51.07:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
-[2022.06.11-04.51.07:240][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
-[2022.06.11-04.51.07:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
-[2022.06.11-04.51.07:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
-[2022.06.11-04.51.07:282][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
-[2022.06.11-04.51.07:282][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
-[2022.06.11-04.51.07:294][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
-[2022.06.11-04.51.07:307][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
-[2022.06.11-04.51.07:319][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
-[2022.06.11-04.51.07:331][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
-[2022.06.11-04.51.07:331][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2022.06.11-04.51.07:343][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2022.06.11-04.51.07:580][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
-[2022.06.11-04.51.07:580][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Intermediate/Shaders/WorkingDirectory/11152/).
-[2022.06.11-04.51.07:580][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/rahul/AppData/Local/Temp/UnrealShaderWorkingDir/F1222109416E20F53558B7AE3E461041/'.
-[2022.06.11-04.51.07:580][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2022.06.11-04.51.07:580][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2022.06.11-04.51.11:029][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2022.06.11-04.51.11:176][  0]LogDerivedDataCache: Loaded boot cache 0.15s 77MB C:/Users/rahul/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
-[2022.06.11-04.51.11:176][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/rahul/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
-[2022.06.11-04.51.11:177][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2022.06.11-04.51.11:177][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2022.06.11-04.51.11:177][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2022.06.11-04.51.11:177][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2022.06.11-04.51.11:191][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2022.06.11-04.51.11:191][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2022.06.11-04.51.11:191][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2022.06.11-04.51.11:212][  0]LogDerivedDataCache: Speed tests for C:/Users/rahul/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
-[2022.06.11-04.51.11:212][  0]LogDerivedDataCache: Display: Performance to C:/Users/rahul/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.18ms. RandomReadSpeed=128.60MBs, RandomWriteSpeed=79.84MBs. Assigned SpeedClass 'Local'
-[2022.06.11-04.51.11:213][  0]LogDerivedDataCache: Using Local data cache path C:/Users/rahul/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2022.06.11-04.51.11:213][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2022.06.11-04.51.11:213][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2022.06.11-04.51.11:266][  0]LogSlate: Using FreeType 2.10.0
-[2022.06.11-04.51.11:280][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2022.06.11-04.51.11:321][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
-[2022.06.11-04.51.11:662][  0]LogInit: Selected Device Profile: [Windows]
-[2022.06.11-04.51.11:662][  0]LogInit: Active device profile: [0000025B4C27E300][0000025B445D2A40 49] Windows
-[2022.06.11-04.51.11:662][  0]LogInit: Profiles: [0000025B4C27E300][0000025B445D2A40 49] Windows, [0000025B4C22F100][0000025B2AE76BC0 49] WindowsNoEditor, [0000025B4C27D000][0000025B4BA92D40 49] WindowsServer, [0000025B4C22D400][0000025B4BA96EC0 49] WindowsClient, [0000025B4C27E700][0000025B4BA9B040 49] IOS, [0000025B4C22C400][0000025B4BA9F1C0 49] iPadAir, [0000025B4C27F500][0000025B4BAA3340 49] iPadAir2, [0000025B4C1DA400][0000025B2AE735C0 49] IPadPro, [0000025B4C1DA500][0000025B4BAA7600 49] iPadAir3, [0000025B4C22E000][0000025B4BAAB740 49] iPadAir4, [0000025B4C1DBC00][0000025B4BAAF880 49] iPadMini2, [0000025B4C22EF00][0000025B4BAB39C0 49] iPadMini3, [0000025B4C1D9700][0000025B4BABBB40 49] iPadMini4, [0000025B4C22E400][0000025B4BABFCC0 49] iPadMini5, [0000025B4C1DDD00][0000025B4BAC62C0 49] iPhone6, [0000025B4C1DDE00][0000025B4BAC2300 49] iPodTouch6, [0000025B4C27D400][0000025B4BACE5C0 49] iPhone7, [0000025B4C27D500][0000025B4BACA600 49] iPodTouch7, [0000025B4C1DF000][0000025B4BAD2780 49] iPhone5S, [0000025B4C27CF00][0000025B4BAD6900 49] iPhone6Plus, [0000025B4C1DE500][0000025B4BADAA80 49] iPhone6S, [0000025B4C27DF00][0000025B4BADEC00 49] iPhone6SPlus, [0000025B4C1DF400][0000025B4BAE2D80 49] iPhone7Plus, [0000025B4C27F000][0000025B4BAE6F00 49] iPhoneSE, [0000025B4C1DCC00][0000025B4BAEB080 49] iPhone8, [0000025B4C27D700][0000025B4BC97200 49] iPhone8Plus, [0000025B4C1DDC00][0000025B4BC9B380 49] iPhoneX, [0000025B4C27C900][0000025B4BC9F500 49] iPhoneXS, [0000025B4C1DE100][0000025B4BAB7640 49] iPhoneXSMax, [0000025B4C27F200][0000025B4BCA3780 49] iPhoneXR, [0000025B4C1DE000][0000025B4BCA78C0 49] iPhone11, [0000025B4C27F900][0000025B4BCABA00 49] iPhone11Pro, [0000025B4C22FB00][0000025B4BCB3B80 49] iPhone11ProMax, [0000025B4C1DEE00][0000025B4BCB7D00 49] iPhoneSE2, [0000025B4C22D500][0000025B4BCBA1C0 49] iPhone12Mini, [0000025B4C1DD600][0000025B4BCBE340 49] iPhone12, [0000025B4C22E600][0000025B4BCC24C0 49] iPhone12Pro, [0000025B4C1DE300][0000025B4BCC6640 49] iPhone12ProMax, [0000025B4C22E200][0000025B4BCCA7C0 49] iPadPro105, [0000025B4C1DD500][0000025B4BCCE940 49] iPadPro129, [0000025B4C22DA00][0000025B4BCD2AC0 49] iPadPro97, [0000025B4C1DD000][0000025B4BCD6C40 49] iPadPro2_129, [0000025B4C27FB00][0000025B4BCDADC0 49] iPad5, [0000025B4C1DC500][0000025B4BCDEF40 49] iPad6, [0000025B4C27E800][0000025B2F5790C0 49] iPad7, [0000025B4C1DCB00][0000025B2F57D240 49] iPad8, [0000025B4C27DB00][0000025B2F5813C0 49] iPadPro11, [0000025B4C1DF200][0000025B2F585540 49] iPadPro2_11, [0000025B4C27CB00][0000025B2F5896C0 49] iPadPro3_129, [0000025B4C1DE900][0000025B4BCAF800 49] iPadPro4_129, [0000025B4C27D100][0000025B2F58D940 49] AppleTV, [0000025B4C1DC300][0000025B2F591A80 49] AppleTV4K, [0000025B4C27EE00][0000025B2F599C00 49] TVOS, [0000025B4C1DCE00][0000025B2F59C0C0 49] Mac, [0000025B4C27DC00][0000025B2F5A0240 49] MacClient, [0000025B4C1DF800][0000025B2F5A43C0 49] MacNoEditor, [0000025B4C27D200][0000025B2F5A8540 49] MacServer, [0000025B4C1DC400][0000025B2F5AC6C0 49] Linux, [0000025B4C27D900][0000025B2F5B0840 49] LinuxAArch64, [0000025B4C1DDF00][0000025B2F5B49C0 49] LinuxNoEditor, [0000025B4C27DE00][0000025B2F5B8B40 49] LinuxAArch64NoEditor, [0000025B4C1DD800][0000025B2F5BCCC0 49] LinuxClient, [0000025B4C27C200][0000025B2F5C0E40 49] LinuxAArch64Client, [0000025B4C1DFC00][0000025B2F5C4FC0 49] LinuxServer, [0000025B4C27C700][0000025B4BCE3140 49] LinuxAArch64Server, [0000025B4C1DEF00][0000025B4BCE72C0 49] Android, [0000025B4C27F800][0000025B4BCEB440 49] Android_Low, [0000025B4C1DE700][0000025B4BCEF5C0 49] Android_Mid, [0000025B4C27E200][0000025B4BCF3740 49] Android_High, [0000025B4C1DC700][0000025B2F595880 49] Android_Default, [0000025B4C27DA00][0000025B4BCF79C0 49] Android_Adreno4xx, [0000025B4C1DD900][0000025B4BCFBB00 49] Android_Adreno5xx_Low, [0000025B4C27E000][0000025B4BCFFC40 49] Android_Adreno5xx, [0000025B4C1DF700][0000025B4BD06100 49] Android_Adreno6xx, [0000025B4C27F300][0000025B4BD0A280 49] Android_Adreno6xx_Vulkan, [0000025B4C1DFF00][0000025B4BD0E400 49] Android_Mali_T6xx, [0000025B4C27CC00][0000025B4BD12580 49] Android_Mali_T7xx, [0000025B4C1DDA00][0000025B4BD16700 49] Android_Mali_T8xx, [0000025B4C27EB00][0000025B4BD1A880 49] Android_Mali_G71, [0000025B4C1DDB00][0000025B4BD1EA00 49] Android_Mali_G72, [0000025B4C27ED00][0000025B4BD22B80 49] Android_Mali_G72_Vulkan, [0000025B4C1DC100][0000025B4BD26D00 49] Android_Mali_G76, [0000025B4C1DAD00][0000025B4BD2AE80 49] Android_Mali_G76_Vulkan, [0000025B4C22E900][0000025B4BD2F000 49] Android_Mali_G77, [0000025B4C1D8100][0000025B4BD33180 49] Android_Mali_G77_Vulkan, [0000025B4C22FD00][0000025B4BD37300 49] Android_Vulkan_SM5, [0000025B4C1D8800][0000025B4BD3B480 49] Android_PowerVR_G6xxx, [0000025B4C22C100][0000025B4BD3F600 49] Android_PowerVR_GT7xxx, [0000025B4C1DBE00][0000025B4BD43780 49] Android_PowerVR_GE8xxx, [0000025B4C22F000][0000025B4BD038C0 49] Android_PowerVR_GM9xxx, [0000025B4C1D9400][0000025B4BD47A00 49] Android_PowerVR_GM9xxx_Vulkan, [0000025B4C22F900][0000025B4BD4BB40 49] Android_TegraK1, [0000025B4C1D8300][0000025B4BD4FC80 49] Android_Unknown_Vulkan, [0000025B4C22D900][0000025B4BD56140 49] Lumin, [0000025B4C1D8B00][0000025B4BD5A2C0 49] Lumin_Desktop, [0000025B4C22EA00][0000025B4BD5E440 49] HoloLens, 
-[2022.06.11-04.51.11:865][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2022.06.11-04.51.11:865][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2022.06.11-04.51.11:865][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2022.06.11-04.51.11:865][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2022.06.11-04.51.11:865][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2022.06.11-04.51.11:905][  0]LogNetVersion: Tank_vs_Zombies 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1315446585)
-[2022.06.11-04.51.12:758][  0]LogHMD: PokeAHoleMaterial loaded successfully
-[2022.06.11-04.51.12:822][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.062607 seconds
-[2022.06.11-04.51.12:827][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
-[2022.06.11-04.51.12:827][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
-[2022.06.11-04.51.12:827][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2022.06.11-04.51.13:604][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2022.06.11-04.51.13:629][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2022.06.11-04.51.13:790][  0]SourceControl: Source control is disabled
-[2022.06.11-04.51.13:791][  0]SourceControl: Source control is disabled
-[2022.06.11-04.51.13:802][  0]SourceControl: Source control is disabled
-[2022.06.11-04.51.13:806][  0]SourceControl: Source control is disabled
-[2022.06.11-04.51.13:818][  0]SourceControl: Source control is disabled
-[2022.06.11-04.51.13:829][  0]LogUProjectInfo: Found projects:
-[2022.06.11-04.51.14:334][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2022.06.11-04.51.14:371][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2022.06.11-04.51.14:371][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2022.06.11-04.51.14:491][  0]LogCollectionManager: Loaded 0 collections in 0.002306 seconds
-[2022.06.11-04.51.14:556][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Collections/' took 0.01s
-[2022.06.11-04.51.14:556][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Developers/rahul/Collections/' took 0.02s
-[2022.06.11-04.51.14:556][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Collections/' took 0.00s
-[2022.06.11-04.51.14:556][  0]LogOcInput: OculusInput pre-init called
-[2022.06.11-04.51.14:569][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
-[2022.06.11-04.51.14:569][  0]LogWindows: File 'OVRPlugin.dll' does not exist
-[2022.06.11-04.51.14:617][  0]LogEngine: Initializing Engine...
-[2022.06.11-04.51.14:629][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2022.06.11-04.51.14:634][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
-[2022.06.11-04.51.14:640][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
-[2022.06.11-04.51.14:767][  0]LogInit: Initializing FReadOnlyCVARCache
-[2022.06.11-04.51.14:779][  0]LogAIModule: Creating AISystem for world Untitled
-[2022.06.11-04.51.14:795][  0]LogAudio: Display: Initializing Audio Device Manager...
-[2022.06.11-04.51.14:802][  0]LogAudio: Display: Audio Device Manager Initialized
-[2022.06.11-04.51.14:802][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
-[2022.06.11-04.51.14:802][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2022.06.11-04.51.14:802][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2022.06.11-04.51.14:802][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2022.06.11-04.51.14:802][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2022.06.11-04.51.14:802][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2022.06.11-04.51.14:802][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2022.06.11-04.51.14:802][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2022.06.11-04.51.14:802][  0]LogAudio: Display: AudioDevice MaxSources: 32
-[2022.06.11-04.51.14:803][  0]LogAudio: Display: Using built-in audio occlusion.
-[2022.06.11-04.51.14:803][  0]LogAudioMixer: Display: Initializing audio mixer.
-[2022.06.11-04.51.14:847][  0]LogAudioMixer: Display: 0: FrontLeft
-[2022.06.11-04.51.14:847][  0]LogAudioMixer: Display: 1: FrontRight
-[2022.06.11-04.51.15:123][  0]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
-[2022.06.11-04.51.15:130][  0]LogAudioMixer: Display: Initializing Sound Submixes...
-[2022.06.11-04.51.15:132][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2022.06.11-04.51.15:132][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2022.06.11-04.51.15:134][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2022.06.11-04.51.15:134][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
-[2022.06.11-04.51.15:134][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
-[2022.06.11-04.51.15:135][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
-[2022.06.11-04.51.15:135][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
-[2022.06.11-04.51.15:135][  0]LogInit: FAudioDevice initialized.
-[2022.06.11-04.51.15:139][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
-[2022.06.11-04.51.15:139][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2022.06.11-04.51.15:355][  0]LogDerivedDataCache: Saved boot cache 0.22s 77MB C:/Users/rahul/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
-[2022.06.11-04.51.15:359][  0]LogInit: Texture streaming: Enabled
-[2022.06.11-04.51.15:385][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
-[2022.06.11-04.51.15:391][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2022.06.11-04.51.15:391][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
-[2022.06.11-04.51.15:397][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
-[2022.06.11-04.51.15:421][  0]LogInit: Transaction tracking system initialized
-[2022.06.11-04.51.15:449][  0]BlueprintLog: New page: Editor Load
-[2022.06.11-04.51.15:541][  0]LocalizationService: Localization service is disabled
-[2022.06.11-04.51.15:576][  0]TimingProfiler: Initialize
-[2022.06.11-04.51.15:577][  0]TimingProfiler: OnSessionChanged
-[2022.06.11-04.51.15:577][  0]LoadingProfiler: Initialize
-[2022.06.11-04.51.15:577][  0]LoadingProfiler: OnSessionChanged
-[2022.06.11-04.51.15:577][  0]NetworkingProfiler: Initialize
-[2022.06.11-04.51.15:577][  0]NetworkingProfiler: OnSessionChanged
-[2022.06.11-04.51.15:577][  0]MemoryProfiler: Initialize
-[2022.06.11-04.51.15:577][  0]MemoryProfiler: OnSessionChanged
-[2022.06.11-04.51.15:828][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/' took 0.00s
-[2022.06.11-04.51.15:828][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
-[2022.06.11-04.51.15:828][  0]LogCook: Display: Mobile HDR setting 1
-[2022.06.11-04.51.16:421][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
-[2022.06.11-04.51.16:427][  0]SourceControl: Source control is disabled
-[2022.06.11-04.51.16:427][  0]LogUnrealEdMisc: Loading editor; pre map load, took 16.134
-[2022.06.11-04.51.16:427][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
-[2022.06.11-04.51.16:428][  0]LightingResults: New page: Lighting Build
-[2022.06.11-04.51.16:429][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
-[2022.06.11-04.51.16:429][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2022.06.11-04.51.16:429][  0]MapCheck: New page: Map Check
-[2022.06.11-04.51.16:429][  0]LightingResults: New page: Lighting Build
-[2022.06.11-04.51.16:435][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
-[2022.06.11-04.51.16:495][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
-[2022.06.11-04.51.16:498][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
-[2022.06.11-04.51.16:499][  0]LogAIModule: Creating AISystem for world Untitled_1
-[2022.06.11-04.51.16:503][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2022.06.11-04.51.16:510][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
-[2022.06.11-04.51.16:511][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2022.06.11-04.51.16:511][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
-[2022.06.11-04.51.16:511][  0]LogFileHelpers: Loading map 'Template_Default' took 0.084
-[2022.06.11-04.51.16:514][  0]LogUnrealEdMisc: Total Editor Startup Time, took 16.222
-[2022.06.11-04.51.16:705][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2022.06.11-04.51.16:717][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2022.06.11-04.51.16:732][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2022.06.11-04.51.16:740][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2022.06.11-04.51.16:795][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0113 seconds. Added 3602 classes and 861 folders.
-[2022.06.11-04.51.16:806][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2022.06.11-04.51.16:826][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2022.06.11-04.51.16:826][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.06.11-04.51.16:826][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2022.06.11-04.51.16:826][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
-[2022.06.11-04.51.16:834][  0]LogPakFile: PakFile PrimaryIndexSize=189
-[2022.06.11-04.51.16:834][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.06.11-04.51.16:834][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
-[2022.06.11-04.51.16:834][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
-[2022.06.11-04.51.16:838][  0]LogPakFile: PakFile PrimaryIndexSize=191
-[2022.06.11-04.51.16:838][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.06.11-04.51.16:838][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
-[2022.06.11-04.51.16:838][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
-[2022.06.11-04.51.16:843][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2022.06.11-04.51.16:843][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.06.11-04.51.16:843][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2022.06.11-04.51.16:843][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
-[2022.06.11-04.51.16:860][  0]LogPakFile: PakFile PrimaryIndexSize=190
-[2022.06.11-04.51.16:860][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.06.11-04.51.16:860][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
-[2022.06.11-04.51.16:860][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
-[2022.06.11-04.51.16:865][  0]LogPakFile: PakFile PrimaryIndexSize=192
-[2022.06.11-04.51.16:865][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.06.11-04.51.16:865][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
-[2022.06.11-04.51.16:865][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
-[2022.06.11-04.51.16:871][  0]LogPakFile: PakFile PrimaryIndexSize=182
-[2022.06.11-04.51.16:871][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.06.11-04.51.16:871][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
-[2022.06.11-04.51.16:871][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
-[2022.06.11-04.51.16:877][  0]LogPakFile: PakFile PrimaryIndexSize=184
-[2022.06.11-04.51.16:877][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.06.11-04.51.16:877][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
-[2022.06.11-04.51.16:877][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
-[2022.06.11-04.51.16:885][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2022.06.11-04.51.16:885][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.06.11-04.51.16:885][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2022.06.11-04.51.16:885][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
-[2022.06.11-04.51.16:890][  0]LogPakFile: PakFile PrimaryIndexSize=182
-[2022.06.11-04.51.16:890][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.06.11-04.51.16:890][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
-[2022.06.11-04.51.16:891][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
-[2022.06.11-04.51.16:895][  0]LogPakFile: PakFile PrimaryIndexSize=184
-[2022.06.11-04.51.16:895][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.06.11-04.51.16:895][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
-[2022.06.11-04.51.16:895][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
-[2022.06.11-04.51.16:900][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2022.06.11-04.51.16:900][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.06.11-04.51.16:900][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2022.06.11-04.51.16:900][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
-[2022.06.11-04.51.16:906][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2022.06.11-04.51.16:906][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.06.11-04.51.16:906][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2022.06.11-04.51.16:906][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
-[2022.06.11-04.51.16:910][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2022.06.11-04.51.16:910][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.06.11-04.51.16:910][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2022.06.11-04.51.16:910][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
-[2022.06.11-04.51.16:915][  0]LogPakFile: PakFile PrimaryIndexSize=190
-[2022.06.11-04.51.16:915][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.06.11-04.51.16:915][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
-[2022.06.11-04.51.16:915][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
-[2022.06.11-04.51.16:920][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2022.06.11-04.51.16:920][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.06.11-04.51.16:920][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2022.06.11-04.51.16:920][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
-[2022.06.11-04.51.16:925][  0]LogPakFile: PakFile PrimaryIndexSize=189
-[2022.06.11-04.51.16:925][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.06.11-04.51.16:925][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
-[2022.06.11-04.51.16:925][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
-[2022.06.11-04.51.16:930][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2022.06.11-04.51.16:930][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.06.11-04.51.16:930][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2022.06.11-04.51.16:930][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
-[2022.06.11-04.51.16:935][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2022.06.11-04.51.16:935][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.06.11-04.51.16:935][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2022.06.11-04.51.16:935][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
-[2022.06.11-04.51.16:959][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2022.06.11-04.51.16:959][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.06.11-04.51.16:959][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2022.06.11-04.51.16:959][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
-[2022.06.11-04.51.16:964][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2022.06.11-04.51.16:964][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.06.11-04.51.16:964][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2022.06.11-04.51.16:964][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
-[2022.06.11-04.51.16:969][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2022.06.11-04.51.16:969][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.06.11-04.51.16:969][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2022.06.11-04.51.16:969][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
-[2022.06.11-04.51.16:974][  0]LogPakFile: PakFile PrimaryIndexSize=186
-[2022.06.11-04.51.16:974][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.06.11-04.51.16:974][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
-[2022.06.11-04.51.16:974][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
-[2022.06.11-04.51.16:979][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2022.06.11-04.51.16:979][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.06.11-04.51.16:979][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2022.06.11-04.51.16:979][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
-[2022.06.11-04.51.16:984][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2022.06.11-04.51.16:984][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.06.11-04.51.16:984][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2022.06.11-04.51.16:984][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
-[2022.06.11-04.51.16:989][  0]LogPakFile: PakFile PrimaryIndexSize=192
-[2022.06.11-04.51.16:989][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.06.11-04.51.16:989][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
-[2022.06.11-04.51.16:989][  0]LogPakFile: OnPakFileMounted2Time == 0.000111
-[2022.06.11-04.51.17:264][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2022.06.11-04.51.17:274][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
-[2022.06.11-04.51.17:570][  0]LogSlate: Took 0.015729 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2022.06.11-04.51.17:629][  0]LogSlate: Took 0.042388 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2022.06.11-04.51.17:733][  0]LogSlate: Took 0.008995 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2022.06.11-04.51.17:887][  0]LogRenderer: Reallocating scene render targets to support 896x504 Format 10 NumSamples 1 (Frame:1).
-[2022.06.11-04.51.18:172][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
-[2022.06.11-04.51.18:172][  0]LogLoad: (Engine Initialization) Total time: 17.88 seconds
-[2022.06.11-04.51.18:172][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2022.06.11-04.51.18:172][  0]LogInit: First time updating LLM stats...
-[2022.06.11-04.51.18:223][  0]LogAssetRegistry: Asset discovery search completed in 6.9026 seconds
-[2022.06.11-04.51.18:225][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
-[2022.06.11-04.51.18:263][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Engine.ini]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:2]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Engine.ini]
+[2022.06.14-02.38.42:900][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Engine.ini]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Engine.ini]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.06.14-02.38.42:900][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Engine.ini]
+[2022.06.14-02.38.42:900][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Engine.ini]
+[2022.06.14-02.38.42:907][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.14-02.38.42:907][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.14-02.38.42:909][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.14-02.38.42:909][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.06.14-02.38.42:910][  0]LogHAL: Display: Platform has ~ 8 GB [8451309568 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.14-02.38.42:910][  0]LogInit: Going up to parent DeviceProfile []
+[2022.06.14-02.38.42:910][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Scalability.ini]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.14-02.38.42:910][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.14-02.38.42:912][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.06.14-02.38.42:912][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.06.14-02.38.42:912][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.06.14-02.38.42:912][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Engine.ini]
+[2022.06.14-02.38.42:912][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Config/Windows/Editor.ini]
+[2022.06.14-02.38.42:913][  0]LogInit: Computer: LAPTOP-H4T4MDIS
+[2022.06.14-02.38.42:913][  0]LogInit: User: rahul
+[2022.06.14-02.38.42:913][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.06.14-02.38.42:913][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.14-02.38.42:913][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2022.06.14-02.38.42:913][  0]LogMemory: Platform Memory Stats for Windows
+[2022.06.14-02.38.42:913][  0]LogMemory: Process Physical Memory: 131.56 MB used, 131.56 MB peak
+[2022.06.14-02.38.42:913][  0]LogMemory: Process Virtual Memory: 108.59 MB used, 108.59 MB peak
+[2022.06.14-02.38.42:913][  0]LogMemory: Physical Memory: 6132.01 MB used,  1927.79 MB free, 8059.80 MB total
+[2022.06.14-02.38.42:913][  0]LogMemory: Virtual Memory: 134200968.00 MB used,  16757.22 MB free, 134217728.00 MB total
+[2022.06.14-02.38.42:918][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.14-02.38.43:021][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.06.14-02.38.43:023][  0]LogInit: Using OS detected language (en-US).
+[2022.06.14-02.38.43:023][  0]LogInit: Using OS detected locale (en-IN).
+[2022.06.14-02.38.43:038][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.06.14-02.38.43:324][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.14-02.38.43:350][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.14-02.38.43:412][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.14-02.38.43:412][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.14-02.38.45:964][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.14-02.38.45:964][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.06.14-02.38.45:964][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.06.14-02.38.45:964][  0]LogD3D11RHI: D3D11 adapters:
+[2022.06.14-02.38.46:059][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2022.06.14-02.38.46:059][  0]LogD3D11RHI:       3962/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.06.14-02.38.46:085][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2022.06.14-02.38.46:085][  0]LogD3D11RHI:       128/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.06.14-02.38.46:090][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.06.14-02.38.46:090][  0]LogD3D11RHI:       0/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.06.14-02.38.46:090][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.06.14-02.38.46:097][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.06.14-02.38.46:097][  0]LogD3D11RHI:     GPU DeviceId: 0x1f99 (for the marketing name, search the web for "GPU Device Id")
+[2022.06.14-02.38.46:097][  0]LogWindows: EnumDisplayDevices:
+[2022.06.14-02.38.46:097][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2022.06.14-02.38.46:097][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.06.14-02.38.46:097][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.06.14-02.38.46:098][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2022.06.14-02.38.46:098][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.06.14-02.38.46:099][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2022.06.14-02.38.46:100][  0]LogD3D11RHI:   Driver Version: 462.30 (internal:27.21.14.6230, unified:462.30)
+[2022.06.14-02.38.46:100][  0]LogD3D11RHI:      Driver Date: 4-5-2021
+[2022.06.14-02.38.46:100][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2022.06.14-02.38.46:168][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.06.14-02.38.46:168][  0]LogD3D11RHI: Async texture creation enabled
+[2022.06.14-02.38.46:168][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.06.14-02.38.46:228][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.06.14-02.38.46:233][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.06.14-02.38.46:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.06.14-02.38.46:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.14-02.38.46:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.14-02.38.46:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.14-02.38.46:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.14-02.38.46:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.14-02.38.46:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.14-02.38.46:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.14-02.38.46:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.14-02.38.46:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.14-02.38.46:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.14-02.38.46:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.14-02.38.46:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.14-02.38.46:609][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.14-02.38.46:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.06.14-02.38.46:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.14-02.38.46:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.14-02.38.46:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.06.14-02.38.46:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.06.14-02.38.46:665][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.06.14-02.38.46:692][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.06.14-02.38.46:692][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.06.14-02.38.46:700][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.06.14-02.38.46:711][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.06.14-02.38.46:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.06.14-02.38.46:729][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.06.14-02.38.46:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.14-02.38.46:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.14-02.38.46:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.06.14-02.38.46:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.14-02.38.46:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.14-02.38.46:794][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.14-02.38.46:794][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.06.14-02.38.46:809][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.14-02.38.46:952][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.14-02.38.46:953][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Intermediate/Shaders/WorkingDirectory/1700/).
+[2022.06.14-02.38.46:953][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/rahul/AppData/Local/Temp/UnrealShaderWorkingDir/D502B0394E4091096D1288A7ABDAD02B/'.
+[2022.06.14-02.38.46:954][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.06.14-02.38.46:954][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.06.14-02.38.49:795][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.06.14-02.38.49:935][  0]LogDerivedDataCache: Loaded boot cache 0.14s 77MB C:/Users/rahul/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.06.14-02.38.49:935][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/rahul/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.06.14-02.38.49:935][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.14-02.38.49:935][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.06.14-02.38.49:935][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.14-02.38.49:935][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.06.14-02.38.49:948][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.06.14-02.38.49:948][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.14-02.38.49:948][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.06.14-02.38.49:962][  0]LogDerivedDataCache: Speed tests for C:/Users/rahul/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.06.14-02.38.49:962][  0]LogDerivedDataCache: Display: Performance to C:/Users/rahul/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.14ms. RandomReadSpeed=128.28MBs, RandomWriteSpeed=219.86MBs. Assigned SpeedClass 'Local'
+[2022.06.14-02.38.49:963][  0]LogDerivedDataCache: Using Local data cache path C:/Users/rahul/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.14-02.38.49:963][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.14-02.38.49:963][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.06.14-02.38.50:012][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.14-02.38.50:028][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.14-02.38.50:077][  0]LogAssetRegistry: FAssetRegistry took 0.0055 seconds to start up
+[2022.06.14-02.38.50:481][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.14-02.38.50:481][  0]LogInit: Active device profile: [000001C4A20AA300][000001C49EF7C540 49] Windows
+[2022.06.14-02.38.50:481][  0]LogInit: Profiles: [000001C4A20AA300][000001C49EF7C540 49] Windows, [000001C4A204AD00][000001C49EB206C0 49] WindowsNoEditor, [000001C4A20A9200][000001C49EB24840 49] WindowsServer, [000001C4A204BD00][000001C49EB289C0 49] WindowsClient, [000001C4A20A8200][000001C49EB2CB40 49] IOS, [000001C4A2048B00][000001C4A1362CC0 49] iPadAir, [000001C4A20AAF00][000001C4A1366E40 49] iPadAir2, [000001C4A1FCA200][000001C4A136F100 49] IPadPro, [000001C4A1FCA300][000001C4A136B140 49] iPadAir3, [000001C4A2049A00][000001C4A13732C0 49] iPadAir4, [000001C4A1FCBA00][000001C4A1377440 49] iPadMini2, [000001C4A2048300][000001C49EB1D580 49] iPadMini3, [000001C4A1FC9700][000001C4A137B6C0 49] iPadMini4, [000001C4A204A800][000001C4A137F800 49] iPadMini5, [000001C4A1FE9B00][000001C4A138BA80 49] iPhone6, [000001C4A1FE9C00][000001C4A1383AC0 49] iPodTouch6, [000001C4A20AA000][000001C4862140C0 49] iPhone7, [000001C4A20A9300][000001C486210100 49] iPodTouch7, [000001C4A1FEAC00][000001C486218280 49] iPhone5S, [000001C4A20AA900][000001C48621C400 49] iPhone6Plus, [000001C4A1FEA000][000001C486220580 49] iPhone6S, [000001C4A20A9D00][000001C486224700 49] iPhone6SPlus, [000001C4A1FE9900][000001C486228880 49] iPhone7Plus, [000001C4A20A9000][000001C48622CA00 49] iPhoneSE, [000001C4A1FEB100][000001C486230B80 49] iPhone8, [000001C4A20A9500][000001C486234D00 49] iPhone8Plus, [000001C4A1FEAA00][000001C486238E80 49] iPhoneX, [000001C4A20A8300][000001C48623D000 49] iPhoneXS, [000001C4A1FEA700][000001C4A23A1180 49] iPhoneXSMax, [000001C4A20A9900][000001C4A23A5300 49] iPhoneXR, [000001C4A204BC00][000001C4A23A9480 49] iPhone11, [000001C4A1FE8C00][000001C4A23AD600 49] iPhone11Pro, [000001C4A204AE00][000001C4A1387740 49] iPhone11ProMax, [000001C4A1FEB800][000001C4A23B1880 49] iPhoneSE2, [000001C4A204B000][000001C4A23B59C0 49] iPhone12Mini, [000001C4A1FEA500][000001C4A23BDB40 49] iPhone12, [000001C4A2049100][000001C4A23C1CC0 49] iPhone12Pro, [000001C4A1FEB900][000001C4A23C4180 49] iPhone12ProMax, [000001C4A2048D00][000001C4A23C8300 49] iPadPro105, [000001C4A1FE8A00][000001C4A23CC480 49] iPadPro129, [000001C4A204B600][000001C4A23D0600 49] iPadPro97, [000001C4A20A9E00][000001C4A23D4780 49] iPadPro2_129, [000001C4A204A100][000001C4A23D8900 49] iPad5, [000001C4A20AB100][000001C4A23DCA80 49] iPad6, [000001C4A204A200][000001C4A23E0C00 49] iPad7, [000001C4A20A8E00][000001C4A23E4D80 49] iPad8, [000001C4A2048800][000001C4A23E8F00 49] iPadPro11, [000001C4A20AAB00][000001C4A23ED080 49] iPadPro2_11, [000001C4A204B200][000001C4A23F1200 49] iPadPro3_129, [000001C4A20A8D00][000001C4A23F5380 49] iPadPro4_129, [000001C4A2049500][000001C4A23F9500 49] AppleTV, [000001C4A20AA200][000001C4A23FD680 49] AppleTV4K, [000001C4A204AC00][000001C4A23B97C0 49] TVOS, [000001C4A20AAC00][000001C4A2401900 49] Mac, [000001C4A2049D00][000001C4A2405A40 49] MacClient, [000001C4A20AB000][000001C4A2409B80 49] MacNoEditor, [000001C4A204B300][000001C4A2411D00 49] MacServer, [000001C4A20A9400][000001C4A24141C0 49] Linux, [000001C4A2048100][000001C4A2418340 49] LinuxAArch64, [000001C4A20A8F00][000001C4A241C4C0 49] LinuxNoEditor, [000001C4A204B900][000001C4A2420640 49] LinuxAArch64NoEditor, [000001C4A20A8700][000001C4A24247C0 49] LinuxClient, [000001C4A2049200][000001C4A2428940 49] LinuxAArch64Client, [000001C4A20ABA00][000001C4A242CAC0 49] LinuxServer, [000001C4A204B100][000001C4A2430C40 49] LinuxAArch64Server, [000001C4A20AB900][000001C4A2434DC0 49] Android, [000001C4A204A300][000001C4A2438F40 49] Android_Low, [000001C4A20AB600][000001C4A243D0C0 49] Android_Mid, [000001C4A204B800][000001C4A2441240 49] Android_High, [000001C4A20A9600][000001C4A24453C0 49] Android_Default, [000001C4A204BB00][000001C4A2449540 49] Android_Adreno4xx, [000001C4A20AAD00][000001C4A244D6C0 49] Android_Adreno5xx_Low, [000001C4A2049F00][000001C4A240D800 49] Android_Adreno5xx, [000001C4A20A8C00][000001C4A2451940 49] Android_Adreno6xx, [000001C4A2048A00][000001C4A2455A80 49] Android_Adreno6xx_Vulkan, [000001C4A20AB400][000001C4A2459BC0 49] Android_Mali_T6xx, [000001C4A204AA00][000001C4A2461D40 49] Android_Mali_T7xx, [000001C4A20ABD00][000001C4A2464200 49] Android_Mali_T8xx, [000001C4A204B500][000001C4A2468380 49] Android_Mali_G71, [000001C4A20A8A00][000001C4A246C500 49] Android_Mali_G72, [000001C4A1FCAB00][000001C4A2470680 49] Android_Mali_G72_Vulkan, [000001C4A1FE8900][000001C4A2474800 49] Android_Mali_G76, [000001C4A1FC8500][000001C4A2478980 49] Android_Mali_G76_Vulkan, [000001C4A1FE9A00][000001C4A247CB00 49] Android_Mali_G77, [000001C4A1FCA800][000001C4A2480C80 49] Android_Mali_G77_Vulkan, [000001C4A1FEBB00][000001C4A2484E00 49] Android_Vulkan_SM5, [000001C4A1FC8600][000001C4A2488F80 49] Android_PowerVR_G6xxx, [000001C4A1FEA900][000001C4A248D100 49] Android_PowerVR_GT7xxx, [000001C4A1FC8400][000001C4A2491280 49] Android_PowerVR_GE8xxx, [000001C4A1FE8B00][000001C4A2495400 49] Android_PowerVR_GM9xxx, [000001C4A1FC9300][000001C4A2499580 49] Android_PowerVR_GM9xxx_Vulkan, [000001C4A1FEA800][000001C4A249D700 49] Android_TegraK1, [000001C4A1FC8900][000001C4A24A1880 49] Android_Unknown_Vulkan, [000001C4A1FEB600][000001C4A245D9C0 49] Lumin, [000001C4A1FC9A00][000001C4A24A5B00 49] Lumin_Desktop, [000001C4A1FE9700][000001C4A24A9C40 49] HoloLens, 
+[2022.06.14-02.38.50:659][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.14-02.38.50:659][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.14-02.38.50:659][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.14-02.38.50:659][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.14-02.38.50:660][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.14-02.38.50:701][  0]LogNetVersion: Tank_vs_Zombies 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1315446585)
+[2022.06.14-02.38.51:547][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.06.14-02.38.51:595][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.045746 seconds
+[2022.06.14-02.38.51:601][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.06.14-02.38.51:602][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.06.14-02.38.51:602][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.14-02.38.52:526][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.14-02.38.52:533][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.14-02.38.52:717][  0]SourceControl: Source control is disabled
+[2022.06.14-02.38.52:717][  0]SourceControl: Source control is disabled
+[2022.06.14-02.38.52:722][  0]SourceControl: Source control is disabled
+[2022.06.14-02.38.52:730][  0]SourceControl: Source control is disabled
+[2022.06.14-02.38.52:740][  0]SourceControl: Source control is disabled
+[2022.06.14-02.38.52:746][  0]LogUProjectInfo: Found projects:
+[2022.06.14-02.38.52:814][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.14-02.38.52:837][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.14-02.38.52:837][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.14-02.38.53:123][  0]LogCollectionManager: Loaded 0 collections in 0.001581 seconds
+[2022.06.14-02.38.53:157][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Saved/Collections/' took 0.00s
+[2022.06.14-02.38.53:157][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Developers/rahul/Collections/' took 0.00s
+[2022.06.14-02.38.53:157][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/Collections/' took 0.00s
+[2022.06.14-02.38.53:157][  0]LogOcInput: OculusInput pre-init called
+[2022.06.14-02.38.53:170][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.06.14-02.38.53:170][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.06.14-02.38.53:285][  0]LogEngine: Initializing Engine...
+[2022.06.14-02.38.53:287][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.14-02.38.53:288][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.06.14-02.38.53:291][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.06.14-02.38.53:413][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.14-02.38.53:461][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.14-02.38.53:472][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.14-02.38.53:478][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.14-02.38.53:478][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.14-02.38.53:479][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.14-02.38.53:479][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.14-02.38.53:479][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.14-02.38.53:479][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.14-02.38.53:479][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.14-02.38.53:479][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.14-02.38.53:479][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.14-02.38.53:479][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.14-02.38.53:482][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.14-02.38.53:482][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.14-02.38.53:500][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.14-02.38.53:500][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.06.14-02.38.53:778][  0]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.06.14-02.38.53:782][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.14-02.38.53:784][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.14-02.38.53:785][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.14-02.38.53:786][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.14-02.38.53:786][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.14-02.38.53:787][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.14-02.38.53:787][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.14-02.38.53:787][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.14-02.38.53:787][  0]LogInit: FAudioDevice initialized.
+[2022.06.14-02.38.53:788][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.14-02.38.53:789][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.14-02.38.53:890][  0]LogDerivedDataCache: Saved boot cache 0.10s 77MB C:/Users/rahul/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.06.14-02.38.53:895][  0]LogInit: Texture streaming: Enabled
+[2022.06.14-02.38.53:911][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.06.14-02.38.53:917][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.14-02.38.53:918][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={FC116C3C-400C-FCCF-A048-66A06B15D2B3}
+[2022.06.14-02.38.53:918][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.06.14-02.38.53:925][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.06.14-02.38.53:957][  0]LogInit: Transaction tracking system initialized
+[2022.06.14-02.38.53:995][  0]BlueprintLog: New page: Editor Load
+[2022.06.14-02.38.54:174][  0]LocalizationService: Localization service is disabled
+[2022.06.14-02.38.54:224][  0]TimingProfiler: Initialize
+[2022.06.14-02.38.54:225][  0]TimingProfiler: OnSessionChanged
+[2022.06.14-02.38.54:226][  0]LoadingProfiler: Initialize
+[2022.06.14-02.38.54:226][  0]LoadingProfiler: OnSessionChanged
+[2022.06.14-02.38.54:226][  0]NetworkingProfiler: Initialize
+[2022.06.14-02.38.54:226][  0]NetworkingProfiler: OnSessionChanged
+[2022.06.14-02.38.54:226][  0]MemoryProfiler: Initialize
+[2022.06.14-02.38.54:226][  0]MemoryProfiler: OnSessionChanged
+[2022.06.14-02.38.54:401][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Engine/Tanks vs Zombies C++/Tank_vs_Zombies/Content/' took 0.00s
+[2022.06.14-02.38.54:401][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.06.14-02.38.54:401][  0]LogCook: Display: Mobile HDR setting 1
+[2022.06.14-02.38.54:879][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.14-02.38.54:888][  0]SourceControl: Source control is disabled
+[2022.06.14-02.38.54:889][  0]LogUnrealEdMisc: Loading editor; pre map load, took 15.317
+[2022.06.14-02.38.54:890][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.14-02.38.54:892][  0]LightingResults: New page: Lighting Build
+[2022.06.14-02.38.54:897][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.14-02.38.54:898][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.14-02.38.54:901][  0]MapCheck: New page: Map Check
+[2022.06.14-02.38.54:901][  0]LightingResults: New page: Lighting Build
+[2022.06.14-02.38.54:917][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.06.14-02.38.54:986][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2022.06.14-02.38.54:999][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.06.14-02.38.54:999][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2022.06.14-02.38.55:034][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.14-02.38.55:046][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.06.14-02.38.55:046][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.14-02.38.55:046][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.258ms to complete.
+[2022.06.14-02.38.55:046][  0]LogFileHelpers: Loading map 'Template_Default' took 0.158
+[2022.06.14-02.38.55:087][  0]LogUnrealEdMisc: Total Editor Startup Time, took 15.515
+[2022.06.14-02.38.55:270][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.14-02.38.55:275][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.14-02.38.55:281][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.14-02.38.55:287][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.14-02.38.55:325][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0086 seconds. Added 3605 classes and 861 folders.
+[2022.06.14-02.38.55:334][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.06.14-02.38.55:347][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.14-02.38.55:347][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.14-02.38.55:347][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.14-02.38.55:347][  0]LogPakFile: OnPakFileMounted2Time == 0.000161
+[2022.06.14-02.38.55:355][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.14-02.38.55:355][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.14-02.38.55:355][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.14-02.38.55:355][  0]LogPakFile: OnPakFileMounted2Time == 0.000164
+[2022.06.14-02.38.55:359][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.06.14-02.38.55:359][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.14-02.38.55:359][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.06.14-02.38.55:359][  0]LogPakFile: OnPakFileMounted2Time == 0.000167
+[2022.06.14-02.38.55:363][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.14-02.38.55:363][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.14-02.38.55:364][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.14-02.38.55:364][  0]LogPakFile: OnPakFileMounted2Time == 0.000170
+[2022.06.14-02.38.55:369][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.14-02.38.55:369][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.14-02.38.55:369][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.14-02.38.55:369][  0]LogPakFile: OnPakFileMounted2Time == 0.000173
+[2022.06.14-02.38.55:373][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.14-02.38.55:373][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.14-02.38.55:373][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.14-02.38.55:373][  0]LogPakFile: OnPakFileMounted2Time == 0.000177
+[2022.06.14-02.38.55:378][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.14-02.38.55:378][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.14-02.38.55:378][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.14-02.38.55:378][  0]LogPakFile: OnPakFileMounted2Time == 0.000180
+[2022.06.14-02.38.55:383][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.14-02.38.55:383][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.14-02.38.55:383][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.14-02.38.55:383][  0]LogPakFile: OnPakFileMounted2Time == 0.000182
+[2022.06.14-02.38.55:390][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.14-02.38.55:390][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.14-02.38.55:390][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.14-02.38.55:390][  0]LogPakFile: OnPakFileMounted2Time == 0.000186
+[2022.06.14-02.38.55:395][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.14-02.38.55:395][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.14-02.38.55:395][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.14-02.38.55:395][  0]LogPakFile: OnPakFileMounted2Time == 0.000189
+[2022.06.14-02.38.55:398][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.14-02.38.55:398][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.14-02.38.55:398][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.14-02.38.55:398][  0]LogPakFile: OnPakFileMounted2Time == 0.000192
+[2022.06.14-02.38.55:403][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.14-02.38.55:403][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.14-02.38.55:403][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.14-02.38.55:403][  0]LogPakFile: OnPakFileMounted2Time == 0.000196
+[2022.06.14-02.38.55:407][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.14-02.38.55:407][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.14-02.38.55:407][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.14-02.38.55:407][  0]LogPakFile: OnPakFileMounted2Time == 0.000199
+[2022.06.14-02.38.55:411][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.14-02.38.55:411][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.14-02.38.55:411][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.14-02.38.55:411][  0]LogPakFile: OnPakFileMounted2Time == 0.000202
+[2022.06.14-02.38.55:415][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.14-02.38.55:415][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.14-02.38.55:415][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.14-02.38.55:415][  0]LogPakFile: OnPakFileMounted2Time == 0.000206
+[2022.06.14-02.38.55:420][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.14-02.38.55:420][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.14-02.38.55:420][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.14-02.38.55:420][  0]LogPakFile: OnPakFileMounted2Time == 0.000210
+[2022.06.14-02.38.55:424][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.14-02.38.55:425][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.14-02.38.55:425][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.14-02.38.55:425][  0]LogPakFile: OnPakFileMounted2Time == 0.000214
+[2022.06.14-02.38.55:429][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.14-02.38.55:429][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.14-02.38.55:429][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.14-02.38.55:429][  0]LogPakFile: OnPakFileMounted2Time == 0.000217
+[2022.06.14-02.38.55:433][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.14-02.38.55:433][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.14-02.38.55:433][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.14-02.38.55:433][  0]LogPakFile: OnPakFileMounted2Time == 0.000222
+[2022.06.14-02.38.55:441][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.14-02.38.55:441][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.14-02.38.55:441][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.14-02.38.55:441][  0]LogPakFile: OnPakFileMounted2Time == 0.000225
+[2022.06.14-02.38.55:446][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.14-02.38.55:446][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.14-02.38.55:446][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.14-02.38.55:446][  0]LogPakFile: OnPakFileMounted2Time == 0.000228
+[2022.06.14-02.38.55:451][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.14-02.38.55:451][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.14-02.38.55:451][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.14-02.38.55:451][  0]LogPakFile: OnPakFileMounted2Time == 0.000232
+[2022.06.14-02.38.55:473][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.06.14-02.38.55:473][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.14-02.38.55:473][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.06.14-02.38.55:473][  0]LogPakFile: OnPakFileMounted2Time == 0.000236
+[2022.06.14-02.38.55:502][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.14-02.38.55:502][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.14-02.38.55:502][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.14-02.38.55:502][  0]LogPakFile: OnPakFileMounted2Time == 0.000240
+[2022.06.14-02.38.55:507][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.14-02.38.55:507][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.14-02.38.55:507][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.14-02.38.55:507][  0]LogPakFile: OnPakFileMounted2Time == 0.000243
+[2022.06.14-02.38.55:511][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.14-02.38.55:511][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.14-02.38.55:511][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.14-02.38.55:511][  0]LogPakFile: OnPakFileMounted2Time == 0.000246
+[2022.06.14-02.38.55:682][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.06.14-02.38.55:696][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.06.14-02.38.55:926][  0]LogSlate: Took 0.005561 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.14-02.38.55:934][  0]LogSlate: Took 0.004855 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.14-02.38.55:949][  0]LogSlate: Took 0.004515 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.14-02.38.56:093][  0]LogRenderer: Reallocating scene render targets to support 896x504 Format 10 NumSamples 1 (Frame:1).
+[2022.06.14-02.38.56:210][  0]LogSlate: Took 0.005695 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.14-02.38.56:284][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.06.14-02.38.56:284][  0]LogLoad: (Engine Initialization) Total time: 16.71 seconds
+[2022.06.14-02.38.56:284][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.14-02.38.56:285][  0]LogInit: First time updating LLM stats...
+[2022.06.14-02.38.56:358][  0]LogAssetRegistry: Asset discovery search completed in 6.2809 seconds
+[2022.06.14-02.38.56:360][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000225 seconds (updated 0 objects)
+[2022.06.14-02.38.56:396][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.14-02.38.57:650][  4]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.14-02.54.49:278][959]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Tank_BP.Tank_BP
+[2022.06.14-02.54.49:406][959]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.06.14-02.54.50:204][959]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Turret_BP.Turret_BP
+[2022.06.14-02.54.53:178][107]LogSlate: Window 'Tank_BP' being destroyed

@@ -1,0 +1,7 @@
+C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Development\Tank_vs_Zombies\Definitions.Tank_vs_Zombies.h
+C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Source\Tank_vs_Zombies\TankModeBase.h
+C:\Program Files\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Unreal Engine\Tanks vs Zombies C++\Tank_vs_Zombies\Intermediate\Build\Win64\UE4Editor\Inc\Tank_vs_Zombies\TankModeBase.generated.h
